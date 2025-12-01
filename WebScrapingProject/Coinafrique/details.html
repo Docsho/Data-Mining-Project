@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Détails voiture</title>
+  <link rel="stylesheet" href="webs.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+</head>
+
+<body>
+
+  <header class="small-header">
+    <button class="back-btn" onclick="window.location.href='webscrap.html'">← Retour</button>
+    <h2>Détails du véhicule</h2>
+  </header>
+
+  <main class="details-container">
+
+    <div class="details-card" id="carDetails"></div>
+
+    <h2 class="section-title">🚗 Voitures similaires</h2>
+    <div id="recommendContainer" class="recommend-grid"></div>
+
+  </main>
+
+  <footer class="footer">© 2025 — Nouhr & Yamin</footer>
+
+  <script src="details.js"></script>
+</body>
+</html>

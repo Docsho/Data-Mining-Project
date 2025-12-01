@@ -1,0 +1,966 @@
+id,car_name,brand,model,Price,location,Image_URL,year
+1,Ford Fusion 2016,Ford,Fusion 2016,6500000,Angré,https://images.coinafrique.com/thumb_5634499_uploaded_image1_1763764506.jpg,2016
+2,BMW 218i 2015,BMW,218i 2015,7800000,Cocody,https://images.coinafrique.com/thumb_5620995_uploaded_image1_1763070701.jpg,2015
+3,Ford Explorer 2011,Ford,Explorer 2011,8200000,Yopougon,https://images.coinafrique.com/thumb_5643111_uploaded_image1_1764197970.jpg,2011
+4,Audi S8 2023,Audi,S8 2023,32000000,Cocody,https://images.coinafrique.com/thumb_5639453_uploaded_image1_1764024608.jpg,2023
+5,Mazda CX-9 2023,Mazda,CX-9 2023,28800000,Cocody,https://images.coinafrique.com/thumb_5639450_uploaded_image1_1764024391.jpg,2023
+6,Toyota Rav4 2021,Toyota,Rav4 2021,22900000,Cocody,https://images.coinafrique.com/thumb_5639443_uploaded_image1_1764024083.jpg,2021
+7,Hyundai Tucson 2021,Hyundai,Tucson 2021,15000000,Cocody,https://images.coinafrique.com/thumb_5635843_uploaded_image1_1763850731.jpg,2021
+8,Toyota Fortuner 2023,Toyota,Fortuner 2023,32000000,Cocody,https://images.coinafrique.com/thumb_5639447_uploaded_image1_1764024256.jpg,2023
+9,Mazda cx3 2021,Mazda,cx3 2021,9500000,Cocody,https://images.coinafrique.com/thumb_5617097_uploaded_image1_1762897216.jpg,2021
+10,Hyundai tucson 2022,Hyundai,tucson 2022,18900000,Angré,https://images.coinafrique.com/thumb_5615177_uploaded_image1_1762810385.jpg,2022
+11,Mercedes-Benz S 2018,Mercedes-Benz,S 2018,13000000,Angré,https://images.coinafrique.com/thumb_5634491_uploaded_image1_1763763918.jpg,2018
+12,Suzuki Vitara 2023,Suzuki,Vitara 2023,10900000,Cocody,https://images.coinafrique.com/thumb_5639437_uploaded_image1_1764023939.jpg,2023
+13,Kia Sportage 2021,Kia,Sportage 2021,14300000,Abidjan,https://images.coinafrique.com/thumb_5632701_uploaded_image1_1763676987.jpg,2021
+14,Mercedes-Benz Fourgon  2018,Mercedes-Benz,Fourgon  2018,13000000,Cocody,https://images.coinafrique.com/thumb_5634490_uploaded_image1_1763763899.jpg,2018
+15,Mitsubishi Mirage 2019,Mitsubishi,Mirage 2019,5900000,Cocody,https://images.coinafrique.com/thumb_5641220_uploaded_image1_1764110479.jpg,2019
+16,Toyota rav4 2019,Toyota,rav4 2019,15900000,Cocody,https://images.coinafrique.com/thumb_5603862_uploaded_image1_1762203260.jpg,2019
+17,Nissan Versa 2021,Nissan,Versa 2021,7950000,Abidjan,https://images.coinafrique.com/thumb_5620975_uploaded_image1_1763070073.jpg,2021
+18,Jaguar f- pace 2020,Jaguar,f- pace 2020,28000000,Angré,https://images.coinafrique.com/thumb_5634482_uploaded_image1_1763763460.jpg,2020
+19,Kia Sportage 2021,Kia,Sportage 2021,14950000,Abidjan,https://images.coinafrique.com/thumb_5632700_uploaded_image1_1763676870.jpg,2021
+20,Toyota land cruiser 2017,Toyota,land cruiser 2017,20500000,Cocody,https://images.coinafrique.com/thumb_5609379_uploaded_image1_1762463136.jpg,2017
+21,Mazda CX-5 2019,Mazda,CX-5 2019,12900000,Cocody,https://images.coinafrique.com/thumb_5625053_uploaded_image1_1763329819.jpg,2019
+22,Mazda CX5 2021,Mazda,CX5 2021,14800000,Abidjan,https://images.coinafrique.com/thumb_5632698_uploaded_image1_1763676655.jpg,2021
+23,BMW x3 2022,BMW,x3 2022,29500000,Cocody,https://images.coinafrique.com/thumb_5619242_uploaded_image1_1762983206.jpg,2022
+24,Hyundai Santa fe 2025,Hyundai,Santa fe 2025,43000000,Cocody,https://images.coinafrique.com/thumb_5620961_uploaded_image1_1763069551.jpg,2025
+25,Hyundai Kona 2019,Hyundai,Kona 2019,9600000,Cocody,https://images.coinafrique.com/thumb_5635833_uploaded_image1_1763849893.jpg,2019
+26,Hyundai Santa Fe 2021,Hyundai,Santa Fe 2021,17300000,Cocody,https://images.coinafrique.com/thumb_5635835_uploaded_image1_1763850062.jpg,2021
+27,Toyota camry 2022,Toyota,camry 2022,12500000,Cocody,https://images.coinafrique.com/thumb_5630761_uploaded_image1_1763589833.jpg,2022
+28,Ford Fusion 2016,Ford,Fusion 2016,6500000,Cocody,https://images.coinafrique.com/thumb_5635821_uploaded_image1_1763849527.jpg,2016
+29,Hyundai tucson 2024,Hyundai,tucson 2024,20800000,Cocody,https://images.coinafrique.com/thumb_5630746_uploaded_image1_1763589427.jpg,2024
+30,BMW X7 2024,BMW,X7 2024,75000000,Cocody,https://images.coinafrique.com/thumb_5632691_uploaded_image1_1763676148.jpg,2024
+31,KIA Forte 2017,KIA,Forte 2017,7400000,Cocody,https://images.coinafrique.com/thumb_5615160_uploaded_image1_1762809494.jpg,2017
+32,Chevrolet trailblazer 2022,Chevrolet,trailblazer 2022,15500000,Cocody,https://images.coinafrique.com/thumb_5615158_uploaded_image1_1762809328.jpg,2022
+33,Toyota Highlander 2023,Toyota,Highlander 2023,27000000,Grand-Bassam,https://images.coinafrique.com/thumb_5649180_uploaded_image1_1764543066.jpg,2023
+34,Hyundai Santa Fe 2025,Hyundai,Santa Fe 2025,39000000,Cocody,https://images.coinafrique.com/thumb_5639411_uploaded_image1_1764022931.jpg,2025
+35,Kia Seltos SX 2021,Kia,Seltos SX 2021,15500000,Angré,https://images.coinafrique.com/thumb_5634465_uploaded_image1_1763762492.jpg,2021
+36,Honda cr-v 2022,Honda,cr-v 2022,22000000,Cocody,https://images.coinafrique.com/thumb_5615150_uploaded_image1_1762808810.jpg,2022
+37,Kia Seltos 2025,Kia,Seltos 2025,17500000,Angré,https://images.coinafrique.com/thumb_5634470_uploaded_image1_1763762741.jpg,2025
+38,Ford focus 2002,Ford,focus 2002,3600000,Cocody,https://images.coinafrique.com/thumb_5615149_uploaded_image1_1762808800.jpg,2002
+39,Kia Sonet 2025,Kia,Sonet 2025,16900000,Cocody,https://images.coinafrique.com/thumb_5641210_uploaded_image1_1764109548.jpg,2025
+40,Ford escape 2018,Ford,escape 2018,7950000,Cocody,https://images.coinafrique.com/thumb_5615154_uploaded_image1_1762808951.jpg,2018
+41,Toyota Tundra 2025,Toyota,Tundra 2025,55000000,Cocody,https://images.coinafrique.com/thumb_5641207_uploaded_image1_1764109315.jpg,2025
+42,Mercedes-Benz GLC 300 2023,Mercedes-Benz,GLC 300 2023,35000000,Cocody,https://images.coinafrique.com/thumb_5632689_uploaded_image1_1763676066.jpg,2023
+43,Kia Seltos 2025,Kia,Seltos 2025,17800000,Cocody,https://images.coinafrique.com/thumb_5634468_uploaded_image1_1763762611.jpg,2025
+44,Suzuki dzire 2024,Suzuki,dzire 2024,5900000,Angré,https://images.coinafrique.com/thumb_5615152_uploaded_image1_1762808835.jpg,2024
+45,Jetour T2 2025,Jetour,T2 2025,35000000,Cocody,https://images.coinafrique.com/thumb_5625039_uploaded_image1_1763329239.jpg,2025
+46,Ford Focus 2001,Ford,Focus 2001,2600000,Cocody,https://images.coinafrique.com/thumb_5635818_uploaded_image1_1763849421.jpg,2001
+47,Hyundai Avante 2018,Hyundai,Avante 2018,8800000,Cocody,https://images.coinafrique.com/thumb_5632688_uploaded_image1_1763676038.jpg,2018
+48,Hyundai Santa Fe 2017,Hyundai,Santa Fe 2017,9800000,Cocody,https://images.coinafrique.com/thumb_5635825_uploaded_image1_1763849609.jpg,2017
+49,Acura RDX 2024,Acura,RDX 2024,22900000,Cocody,https://images.coinafrique.com/thumb_5625042_uploaded_image1_1763329301.jpg,2024
+50,Hyundai Tucson 2021,Hyundai,Tucson 2021,17000000,Cocody,https://images.coinafrique.com/thumb_5635828_uploaded_image1_1763849774.jpg,2021
+51,Hyundai elantra 2021,Hyundai,elantra 2021,10500000,Abidjan,https://images.coinafrique.com/thumb_5619219_uploaded_image1_1762982175.jpg,2021
+52,Mercedes-benz glg 300 2021,Mercedes-benz,glg 300 2021,25800000,Abidjan,https://images.coinafrique.com/thumb_5613330_uploaded_image1_1762721834.jpg,2021
+53,Hyundai palissade 2020,Hyundai,palissade 2020,24900000,Angré,https://images.coinafrique.com/thumb_5615147_uploaded_image1_1762808697.jpg,2020
+54,Suzuki grand vitara 2025,Suzuki,grand vitara 2025,15500000,Cocody,https://images.coinafrique.com/thumb_5603817_uploaded_image1_1762201826.jpg,2025
+55,Hyundai Santa Fe calligraphy 2021,Hyundai,Santa Fe calligraphy 2021,24900000,Cocody,https://images.coinafrique.com/thumb_5637433_uploaded_image1_1763935845.jpg,2021
+56,Hyundai accent 2018,Hyundai,accent 2018,6750000,Cocody,https://images.coinafrique.com/thumb_5615142_uploaded_image1_1762808541.jpg,2018
+57,Hyundai palisade 2020,Hyundai,palisade 2020,28900000,Cocody,https://images.coinafrique.com/thumb_5615146_uploaded_image1_1762808686.jpg,2020
+58,Peugeot 2008 2022,Peugeot,2008 2022,13000000,Cocody,https://images.coinafrique.com/thumb_5620943_uploaded_image1_1763068646.jpg,2022
+59,Suzuki ertiga 2017,Suzuki,ertiga 2017,4000000,Cocody,https://images.coinafrique.com/thumb_5615144_uploaded_image1_1762808575.jpg,2017
+60,Honda CR-V 2022,Honda,CR-V 2022,19800000,Cocody,https://images.coinafrique.com/thumb_5639390_uploaded_image1_1764022055.jpg,2022
+61,Mercedes-benz glc300  2020,Mercedes-benz,glc300  2020,27000000,Cocody,https://images.coinafrique.com/thumb_5609337_uploaded_image1_1762461514.jpg,2020
+62,Ford escape 2020,Ford,escape 2020,10500000,Angré,https://images.coinafrique.com/thumb_5615133_uploaded_image1_1762808244.jpg,2020
+63,Mercedes-Benz GLE 450 2024,Mercedes-Benz,GLE 450 2024,80000000,Cocody,https://images.coinafrique.com/thumb_5623814_uploaded_image1_1763241816.jpg,2024
+64,Chevrolet Tahoe 2024,Chevrolet,Tahoe 2024,49500000,Cocody,https://images.coinafrique.com/thumb_5634460_uploaded_image1_1763761901.jpg,2024
+65,Mitsubishi Pajero 2022,Mitsubishi,Pajero 2022,23800000,Cocody,https://images.coinafrique.com/thumb_5634462_uploaded_image1_1763762031.jpg,2022
+66,Hyundai tucson 2024,Hyundai,tucson 2024,24500000,Cocody,https://images.coinafrique.com/thumb_5626845_uploaded_image1_1763415331.jpg,2024
+67,Toyota highlander 2011,Toyota,highlander 2011,8500000,Angré,https://images.coinafrique.com/thumb_5615137_uploaded_image1_1762808345.jpg,2011
+68,Hyundai palisade  2020,Hyundai,palisade  2020,28800000,Cocody,https://images.coinafrique.com/thumb_5628743_uploaded_image1_1763501979.jpg,2020
+69,Hyundai Tucson 2024,Hyundai,Tucson 2024,19800000,Abidjan,https://images.coinafrique.com/thumb_5649161_uploaded_image1_1764542133.jpg,2024
+70,Hyundai accent 2016,Hyundai,accent 2016,5800000,Cocody,https://images.coinafrique.com/thumb_5615136_uploaded_image1_1762808333.jpg,2016
+71,Toyota fortuner 2020,Toyota,fortuner 2020,24900000,Cocody,https://images.coinafrique.com/thumb_5615121_uploaded_image1_1762808055.jpg,2020
+72,Mercedes-benz gle350 2021,Mercedes-benz,gle350 2021,43000000,Abidjan,https://images.coinafrique.com/thumb_5630721_uploaded_image1_1763588332.jpg,2021
+73,Nissan versa 2021,Nissan,versa 2021,7950000,Cocody,https://images.coinafrique.com/thumb_5615140_uploaded_image1_1762808432.jpg,2021
+74,Renault kadjar 2018,Renault,kadjar 2018,8500000,Angré,https://images.coinafrique.com/thumb_5615125_uploaded_image1_1762808128.jpg,2018
+75,Hyundai Tucson 2022,Hyundai,Tucson 2022,20800000,Cocody,https://images.coinafrique.com/thumb_5620934_uploaded_image1_1763068077.jpg,2022
+76,BMW X6 M 2021,BMW,X6 M 2021,39000000,Cocody,https://images.coinafrique.com/thumb_5634459_uploaded_image1_1763761755.jpg,2021
+77,Toyota Land Cruiser 2021,Toyota,Land Cruiser 2021,52000000,Cocody,https://images.coinafrique.com/thumb_5634458_uploaded_image1_1763761631.jpg,2021
+78,Hyundai palisade  2022,Hyundai,palisade  2022,30000000,Cocody,https://images.coinafrique.com/thumb_5628741_uploaded_image1_1763501745.jpg,2022
+79,Honda CR-V 2025,Honda,CR-V 2025,25500000,Cocody,https://images.coinafrique.com/thumb_5625013_uploaded_image1_1763328309.jpg,2025
+80,Nissan Patrol 2023,Nissan,Patrol 2023,50000000,Cocody,https://images.coinafrique.com/thumb_5649156_uploaded_image1_1764541765.jpg,2023
+81,Mazda cx30  2021,Mazda,cx30  2021,13900000,Cocody,https://images.coinafrique.com/thumb_5603800_uploaded_image1_1762201276.jpg,2021
+82,Toyota rav4 2016,Toyota,rav4 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5609330_uploaded_image1_1762461292.jpg,2016
+83,Kia Sportage 2017,Kia,Sportage 2017,8900000,Cocody,https://images.coinafrique.com/thumb_5623801_uploaded_image1_1763241261.jpg,2017
+84,Hyundai Stellar 2021,Hyundai,Stellar 2021,11000000,Cocody,https://images.coinafrique.com/thumb_5634457_uploaded_image1_1763761398.jpg,2021
+85,Hyundai santa fe sport 2022,Hyundai,santa fe sport 2022,23500000,Cocody,https://images.coinafrique.com/thumb_5607428_uploaded_image1_1762374099.jpg,2022
+86,Toyota land cruiser 2025,Toyota,land cruiser 2025,88000000,Abidjan,https://images.coinafrique.com/thumb_5628735_uploaded_image1_1763501069.jpg,2025
+87,Hyundai Stellar 2021,Hyundai,Stellar 2021,11000000,Cocody,https://images.coinafrique.com/thumb_5634452_uploaded_image1_1763761278.jpg,2021
+88,Chevrolet Equinox 2015,Chevrolet,Equinox 2015,5800000,Cocody,https://images.coinafrique.com/thumb_5634450_uploaded_image1_1763761050.jpg,2015
+89,Land Rover Range Rover sport 2018,Land,Rover Range Rover sport 2018,22000000,Cocody,https://images.coinafrique.com/thumb_5634445_uploaded_image1_1763760885.jpg,2018
+90,Mercedes-benz e 2021,Mercedes-benz,e 2021,28000000,Cocody,https://images.coinafrique.com/thumb_5607424_uploaded_image1_1762373957.jpg,2021
+91,Toyota Highlander 2022,Toyota,Highlander 2022,29800000,Cocody,https://images.coinafrique.com/thumb_5641193_uploaded_image1_1764107754.jpg,2022
+92,Mitsubishi rvr 2011,Mitsubishi,rvr 2011,5900000,Cocody,https://images.coinafrique.com/thumb_5615096_uploaded_image1_1762807126.jpg,2011
+93,Jeep wrangler 2018,Jeep,wrangler 2018,15500000,Cocody,https://images.coinafrique.com/thumb_5607421_uploaded_image1_1762373794.jpg,2018
+94,Mitsubishi rvr 2011,Mitsubishi,rvr 2011,5900000,Cocody,https://images.coinafrique.com/thumb_5615097_uploaded_image1_1762807131.jpg,2011
+95,Toyota Land Cruiser 2021,Toyota,Land Cruiser 2021,35000000,Abidjan,https://images.coinafrique.com/thumb_5622447_uploaded_image1_1763154037.jpg,2021
+96,Honda cr-v 2024,Honda,cr-v 2024,28000000,Angré,https://images.coinafrique.com/thumb_5613314_uploaded_image1_1762720498.jpg,2024
+97,Audi q5 2022,Audi,q5 2022,29000000,Cocody,https://images.coinafrique.com/thumb_5630692_uploaded_image1_1763587164.jpg,2022
+98,Hyundai santa fe 2021,Hyundai,santa fe 2021,18500000,Cocody,https://images.coinafrique.com/thumb_5628711_uploaded_image1_1763500297.jpg,2021
+99,Citroën berlingo 2016,Citroën,berlingo 2016,4500000,Cocody,https://images.coinafrique.com/thumb_5615088_uploaded_image1_1762806925.jpg,2016
+100,Citroën berlingo 2016,Citroën,berlingo 2016,4500000,Cocody,https://images.coinafrique.com/thumb_5615089_uploaded_image1_1762806937.jpg,2016
+101,Hyundai tucson 2022,Hyundai,tucson 2022,18900000,Cocody,https://images.coinafrique.com/thumb_5615078_uploaded_image1_1762806626.jpg,2022
+102,Hyundai Santa Fe 2016,Hyundai,Santa Fe 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5646330_uploaded_image1_1764366996.jpg,2016
+103,Hyundai santa fe 2021,Hyundai,santa fe 2021,18500000,Cocody,https://images.coinafrique.com/thumb_5628708_uploaded_image1_1763500151.jpg,2021
+104,Land Rover Freelander 2004,Land,Rover Freelander 2004,2800000,Yopougon,https://images.coinafrique.com/thumb_5637402_uploaded_image1_1763933381.jpg,2004
+105,Toyota rav4 2020,Toyota,rav4 2020,21500000,Cocody,https://images.coinafrique.com/thumb_5607411_uploaded_image1_1762373267.jpg,2020
+106,Mazda CX-5 2025,Mazda,CX-5 2025,23500000,Cocody,https://images.coinafrique.com/thumb_5634427_uploaded_image1_1763760175.jpg,2025
+107,Toyota Runx 2021,Toyota,Runx 2021,10800000,Cocody,https://images.coinafrique.com/thumb_5634430_uploaded_image1_1763760324.jpg,2021
+108,BMW 518 2012,BMW,518 2012,3500000,Cocody,https://images.coinafrique.com/thumb_5615068_uploaded_image1_1762806232.jpg,2012
+109,Hyundai tucson 2022,Hyundai,tucson 2022,18000000,Cocody,https://images.coinafrique.com/thumb_5609298_uploaded_image1_1762459737.jpg,2022
+110,Suzuki dzire 2024,Suzuki,dzire 2024,5900000,Cocody,https://images.coinafrique.com/thumb_5615064_uploaded_image1_1762806091.jpg,2024
+111,Hyundai Tucson 2006,Hyundai,Tucson 2006,5900000,Cocody,https://images.coinafrique.com/thumb_5646326_uploaded_image1_1764366811.jpg,2006
+112,Hyundai accent 2018,Hyundai,accent 2018,6700000,Cocody,https://images.coinafrique.com/thumb_5630669_uploaded_image1_1763586460.jpg,2018
+113,Kia Soul 2012,Kia,Soul 2012,5500000,Cocody,https://images.coinafrique.com/thumb_5641180_uploaded_image1_1764106739.jpg,2012
+114,Toyota Highlander 2023,Toyota,Highlander 2023,29500000,Cocody,https://images.coinafrique.com/thumb_5649108_uploaded_image2_1764539824.jpeg,2023
+115,Nissan Patrol 2022,Nissan,Patrol 2022,26000000,Cocody,https://images.coinafrique.com/thumb_5632624_uploaded_image1_1763672920.jpg,2022
+116,Mercedes-benz e3oo 2018,Mercedes-benz,e3oo 2018,18900000,Cocody,https://images.coinafrique.com/thumb_5630652_uploaded_image1_1763586127.jpg,2018
+117,Mercedes-benz gls580 2021,Mercedes-benz,gls580 2021,78000000,Abidjan,https://images.coinafrique.com/thumb_5611035_uploaded_image1_1762545525.jpg,2021
+118,Hyundai Santa Fe 2018,Hyundai,Santa Fe 2018,10800000,Yopougon,https://images.coinafrique.com/thumb_5637378_uploaded_image1_1763932629.jpg,2018
+119,Audi A4 2019,Audi,A4 2019,18500000,Cocody,https://images.coinafrique.com/thumb_5642987_uploaded_image1_1764192728.jpg,2019
+120,Kia Rio 2020,Kia,Rio 2020,8500000,Cocody,https://images.coinafrique.com/thumb_5644762_uploaded_image1_1764279533.jpg,2020
+121,Kia Sportage 2020,Kia,Sportage 2020,14900000,Cocody,https://images.coinafrique.com/thumb_5644766_uploaded_image1_1764279667.jpg,2020
+122,BMW X6 M 2024,BMW,X6 M 2024,89000000,Abidjan,https://images.coinafrique.com/thumb_5611042_uploaded_image1_1762545893.jpg,2024
+123,Land rover range rover sport 2025,Land,rover range rover sport 2025,130000000,Abidjan,https://images.coinafrique.com/thumb_5611037_uploaded_image1_1762545668.jpg,2025
+124,Mercedes-Benz C300 2024,Mercedes-Benz,C300 2024,35000000,Abidjan,https://images.coinafrique.com/thumb_5632608_uploaded_image1_1763672260.jpg,2024
+125,Hyundai Elantra 2021,Hyundai,Elantra 2021,12900000,Cocody,https://images.coinafrique.com/thumb_5644759_uploaded_image1_1764279290.jpg,2021
+126,Hyundai Elantra 2020,Hyundai,Elantra 2020,9900000,Cocody,https://images.coinafrique.com/thumb_5632607_uploaded_image1_1763672218.jpg,2020
+127,Toyota Land Cruiser 2024,Toyota,Land Cruiser 2024,89000000,Cocody,https://images.coinafrique.com/thumb_5623746_uploaded_image1_1763238785.jpg,2024
+128,Audi Q5 2023,Audi,Q5 2023,29500000,Cocody,https://images.coinafrique.com/thumb_5641151_uploaded_image1_1764105425.jpg,2023
+129,mercedes-benz gls580 2021,mercedes-benz,gls580 2021,78000000,Cocody,https://images.coinafrique.com/thumb_5611025_uploaded_image1_1762545018.jpg,2021
+130,BMW x3 2017,BMW,x3 2017,10900000,Cocody,https://images.coinafrique.com/thumb_5615050_uploaded_image1_1762805321.jpg,2017
+131,Mercedes-Benz C300 2023,Mercedes-Benz,C300 2023,33000000,Abidjan,https://images.coinafrique.com/thumb_5632605_uploaded_image1_1763671993.jpg,2023
+132,Hyundai Genesis 2020,Hyundai,Genesis 2020,15900000,Cocody,https://images.coinafrique.com/thumb_5623738_uploaded_image1_1763238432.jpg,2020
+133,Jeep Wrangler 2021,Jeep,Wrangler 2021,30000000,Cocody,https://images.coinafrique.com/thumb_5642978_uploaded_image1_1764192161.jpg,2021
+134,Toyota Rav4 2021,Toyota,Rav4 2021,25000000,Abidjan,https://images.coinafrique.com/thumb_5632594_uploaded_image1_1763671746.jpg,2021
+135,Mitsubishi Space star 2016,Mitsubishi,Space star 2016,3900000,Cocody,https://images.coinafrique.com/thumb_5641147_uploaded_image1_1764105096.jpg,2016
+136,Nissan Qashqai 2019,Nissan,Qashqai 2019,11800000,Cocody,https://images.coinafrique.com/thumb_5623730_uploaded_image1_1763238259.jpg,2019
+137,Mitsubishi  L200 2024,Mitsubishi,L200 2024,16900000,Cocody,https://images.coinafrique.com/thumb_5620869_uploaded_image1_1763064837.jpg,2024
+138,BMW L7 2024,BMW,L7 2024,75000000,Cocody,https://images.coinafrique.com/thumb_5632599_uploaded_image1_1763671845.jpg,2024
+139,Land Rover Defender 110 s 2025,Land,Rover Defender 110 s 2025,55800000,Abidjan,https://images.coinafrique.com/thumb_5639314_uploaded_image1_1764018539.jpg,2025
+140,Land Rover Defender 2024,Land,Rover Defender 2024,58800000,Cocody,https://images.coinafrique.com/thumb_5632589_uploaded_image1_1763671615.jpg,2024
+141,Audi S2 2024,Audi,S2 2024,29800000,Cocody,https://images.coinafrique.com/thumb_5632579_uploaded_image1_1763671360.jpg,2024
+142,Mazda CX-5 2020,Mazda,CX-5 2020,13000000,Cocody,https://images.coinafrique.com/thumb_5620865_uploaded_image1_1763064609.jpg,2020
+143,Toyota Previa 2018,Toyota,Previa 2018,1480000,Cocody,https://images.coinafrique.com/thumb_5641142_uploaded_image1_1764104924.jpg,2018
+144,Mercedes-Benz GLC 300 2022,Mercedes-Benz,GLC 300 2022,35000000,Abidjan,https://images.coinafrique.com/thumb_5632586_uploaded_image1_1763671518.jpg,2022
+145,Hyundai Elantra 2021,Hyundai,Elantra 2021,13800000,Cocody,https://images.coinafrique.com/thumb_5620861_uploaded_image1_1763064482.jpg,2021
+146,Hyundai Creta  2022,Hyundai,Creta  2022,14800000,Cocody,https://images.coinafrique.com/thumb_5641144_uploaded_image1_1764104976.jpg,2022
+147,Hyundai Elantra 2020,Hyundai,Elantra 2020,9800000,Cocody,https://images.coinafrique.com/thumb_5623714_uploaded_image1_1763237806.jpg,2020
+148,Hyundai Tucson 2019,Hyundai,Tucson 2019,13700000,Cocody,https://images.coinafrique.com/thumb_5620849_uploaded_image1_1763064137.jpg,2019
+149,Honda Civic 2018,Honda,Civic 2018,10500000,Cocody,https://images.coinafrique.com/thumb_5635735_uploaded_image1_1763844660.jpg,2018
+150,Toyota corolla 2005,Toyota,corolla 2005,4900000,Yopougon,https://images.coinafrique.com/thumb_5603694_uploaded_image1_1762197368.jpg,2005
+151,Mercedes-Benz A220  2022,Mercedes-Benz,A220  2022,25000000,Cocody,https://images.coinafrique.com/thumb_5642949_uploaded_image1_1764191303.jpg,2022
+152,Mitsubishi Pajero 2024,Mitsubishi,Pajero 2024,22000000,Cocody,https://images.coinafrique.com/thumb_5641137_uploaded_image1_1764104752.jpg,2024
+153,Kia Sorento 2014,Kia,Sorento 2014,7800000,Cocody,https://images.coinafrique.com/thumb_5620856_uploaded_image1_1763064358.jpg,2014
+154,Hyundai Santa Fe sport 2021,Hyundai,Santa Fe sport 2021,22900000,Cocody,https://images.coinafrique.com/thumb_5635732_uploaded_image1_1763844530.jpg,2021
+155,Ford Explorer  2021,Ford,Explorer  2021,23900000,Cocody,https://images.coinafrique.com/thumb_5642937_uploaded_image1_1764190953.jpg,2021
+156,Ford Ranger 2016,Ford,Ranger 2016,13500000,Cocody,https://images.coinafrique.com/thumb_5620844_uploaded_image1_1763063945.jpg,2016
+157,Hyundai Kona 2020,Hyundai,Kona 2020,12000000,Cocody,https://images.coinafrique.com/thumb_5623704_uploaded_image1_1763237094.jpg,2020
+158,Honda Accord boite auto 2004,Honda,Accord boite auto 2004,1850000,Cocody,https://images.coinafrique.com/thumb_5647553_uploaded_image1_1764450462.jpg,2004
+159,Kia Rio 2020,Kia,Rio 2020,8500000,Cocody,https://images.coinafrique.com/thumb_5649065_uploaded_image1_1764537022.jpg,2020
+160,Honda CR-V 2021,Honda,CR-V 2021,19800000,Cocody,https://images.coinafrique.com/thumb_5642912_uploaded_image1_1764190036.jpg,2021
+161,Hyundai tucson 2023,Hyundai,tucson 2023,17800000,Cocody,https://images.coinafrique.com/thumb_5626733_uploaded_image1_1763409850.jpg,2023
+162,Citroen C4 Aicross 2013,Citroen,C4 Aicross 2013,6800000,Cocody,https://images.coinafrique.com/thumb_5623696_uploaded_image1_1763236599.jpg,2013
+163,Dodge challenger 2010,Dodge,challenger 2010,6000000,Cocody,https://images.coinafrique.com/thumb_5605550_uploaded_image1_1762283029.jpg,2010
+164,Hyundai Tucson 2023,Hyundai,Tucson 2023,17900000,Cocody,https://images.coinafrique.com/thumb_5649063_uploaded_image1_1764536898.jpg,2023
+165,Hyundai Accent 2014,Hyundai,Accent 2014,4900000,Cocody,https://images.coinafrique.com/thumb_5646225_uploaded_image1_1764363187.jpg,2014
+166,Hyundai Santa Fe 2016,Hyundai,Santa Fe 2016,8900000,Cocody,https://images.coinafrique.com/thumb_5649060_uploaded_image1_1764536626.jpg,2016
+167,Kia Optima 2018,Kia,Optima 2018,8700000,Cocody,https://images.coinafrique.com/thumb_5649058_uploaded_image1_1764536411.jpg,2018
+168,Honda cr-v4 2013,Honda,cr-v4 2013,9900000,Cocody,https://images.coinafrique.com/thumb_5628625_uploaded_image1_1763496093.jpg,2013
+169,kia sportage 2020,kia,sportage 2020,15900000,Cocody,https://images.coinafrique.com/thumb_5628617_uploaded_image1_1763495853.jpg,2020
+170,toyota land cruiser 2012,toyota,land cruiser 2012,14900000,Cocody,https://images.coinafrique.com/thumb_5628622_uploaded_image1_1763496080.jpg,2012
+171,Mitsubishi ASX 2014,Mitsubishi,ASX 2014,5900000,Cocody,https://images.coinafrique.com/thumb_5649052_uploaded_image1_1764535992.jpg,2014
+172,Hyundai avante 2018,Hyundai,avante 2018,8800000,Cocody,https://images.coinafrique.com/thumb_5630524_uploaded_image1_1763582241.jpg,2018
+173,Renault duster 2021,Renault,duster 2021,3800000,Cocody,https://images.coinafrique.com/thumb_5628618_uploaded_image1_1763495868.jpg,2021
+174,Nissan Kickis  2019,Nissan,Kickis  2019,5950000,Cocody,https://images.coinafrique.com/thumb_5620811_uploaded_image1_1763062843.jpg,2019
+175,Mercedes-benz gle450 2017,Mercedes-benz,gle450 2017,14800000,Abidjan,https://images.coinafrique.com/thumb_5614956_uploaded_image1_1762801952.jpg,2017
+176,Audi a3 2025,Audi,a3 2025,33900000,Cocody,https://images.coinafrique.com/thumb_5628608_uploaded_image1_1763495545.jpg,2025
+177,Honda Accord 2022,Honda,Accord 2022,14900000,Cocody,https://images.coinafrique.com/thumb_5649050_uploaded_image1_1764535836.jpg,2022
+178,Ford f-150 2019,Ford,f-150 2019,12900000,Cocody,https://images.coinafrique.com/thumb_5628600_uploaded_image1_1763495365.jpg,2019
+179,Suzuki Fronte 2024,Suzuki,Fronte 2024,13000000,Cocody,https://images.coinafrique.com/thumb_5632495_uploaded_image1_1763668757.jpg,2024
+180,Suzuki Dzire 2024,Suzuki,Dzire 2024,6000000,Cocody,https://images.coinafrique.com/thumb_5644667_uploaded_image1_1764275305.jpg,2024
+181,Citroën c5 2021,Citroën,c5 2021,10900000,Cocody,https://images.coinafrique.com/thumb_5624900_uploaded_image1_1763321291.jpg,2021
+182,Mitsubishi Pajero 7 places année 2016,Mitsubishi,Pajero 7 places année 2016,7800000,Cocody,https://images.coinafrique.com/thumb_5632470_uploaded_image1_1763668054.jpg,2016
+183,Honda Accord boite auto 2004,Honda,Accord boite auto 2004,1950000,Cocody,https://images.coinafrique.com/thumb_5642878_uploaded_image1_1764188203.jpg,2004
+184,Suzuki Dzire 2025,Suzuki,Dzire 2025,6900000,Cocody,https://images.coinafrique.com/thumb_5644658_uploaded_image1_1764275063.jpg,2025
+185,Mazda CX-5 2020,Mazda,CX-5 2020,13000000,Cocody,https://images.coinafrique.com/thumb_5620733_uploaded_image1_1763061160.jpg,2020
+186,Rover range rover  évoque  2020,Rover,range rover  évoque  2020,23000000,Cocody,https://images.coinafrique.com/thumb_5607268_uploaded_image1_1762367540.jpg,2020
+187,Hyundai Santa Fe 2020,Hyundai,Santa Fe 2020,15800000,Angré,https://images.coinafrique.com/thumb_5632472_uploaded_image1_1763668120.jpg,2020
+188,kia sorento 2020,kia,sorento 2020,11800000,Cocody,https://images.coinafrique.com/thumb_5601873_uploaded_image1_1762107100.jpg,2020
+189,Mitsubishi Pajero 2019,Mitsubishi,Pajero 2019,15900000,Angré,https://images.coinafrique.com/thumb_5632459_uploaded_image1_1763667810.jpg,2019
+190,Mitsubishi L 200 2025,Mitsubishi,L 200 2025,23000000,Angré,https://images.coinafrique.com/thumb_5632463_uploaded_image1_1763667963.jpg,2025
+191,Kia Sportage 2020,Kia,Sportage 2020,12300000,Abidjan,https://images.coinafrique.com/thumb_5632461_uploaded_image1_1763667896.jpg,2020
+192,Mazda cx-5 2016,Mazda,cx-5 2016,9500000,Cocody,https://images.coinafrique.com/thumb_5628580_uploaded_image1_1763494372.jpg,2016
+193,Hyundai palisade  2021,Hyundai,palisade  2021,28500000,Cocody,https://images.coinafrique.com/thumb_5630485_uploaded_image1_1763581011.jpg,2021
+194,Suzuki Grand Vitara 2008,Suzuki,Grand Vitara 2008,2300000,Angré,https://images.coinafrique.com/thumb_5632452_uploaded_image1_1763667660.jpg,2008
+195,Mercedes Benz ML 2006,Mercedes,Benz ML 2006,6900000,Cocody,https://images.coinafrique.com/thumb_5644645_uploaded_image1_1764274425.jpg,2006
+196,Range rover velar p380 2021,Range,rover velar p380 2021,38500000,Abidjan,https://images.coinafrique.com/thumb_5603624_uploaded_image1_1762193687.jpg,2021
+197,Mercedes-benz glc 43 2022,Mercedes-benz,glc 43 2022,40000000,Cocody,https://images.coinafrique.com/thumb_5609195_uploaded_image1_1762453695.jpg,2022
+198,Mazda cx-5 2016,Mazda,cx-5 2016,8800000,Cocody,https://images.coinafrique.com/thumb_5628576_uploaded_image1_1763494225.jpg,2016
+199,Hyundai tucson 2020,Hyundai,tucson 2020,17000000,Cocody,https://images.coinafrique.com/thumb_5628571_uploaded_image1_1763494000.jpg,2020
+200,Land Rover Range Rover Velar  2018,Land,Rover Range Rover Velar  2018,23000000,Cocody,https://images.coinafrique.com/thumb_5635667_uploaded_image1_1763840994.jpg,2018
+201,Ford f-150 2020,Ford,f-150 2020,21500000,Cocody,https://images.coinafrique.com/thumb_5601867_uploaded_image1_1762106844.jpg,2020
+202,Toyota Celica 2023,Toyota,Celica 2023,23800000,Cocody,https://images.coinafrique.com/thumb_5637262_uploaded_image1_1763927697.jpg,2023
+203,Toyota chr ev 2019,Toyota,chr ev 2019,13500000,Cocody,https://images.coinafrique.com/thumb_5605467_uploaded_image1_1762280251.jpg,2019
+204,Kia Sportage xpro 2024,Kia,Sportage xpro 2024,27500000,Cocody,https://images.coinafrique.com/thumb_5634251_uploaded_image1_1763754329.jpg,2024
+205,Hyundai Santa Fe 2025,Hyundai,Santa Fe 2025,39000000,Cocody,https://images.coinafrique.com/thumb_5641051_uploaded_image1_1764100843.jpg,2025
+206,HYUNDAI Tucson 2021,HYUNDAI,Tucson 2021,17000000,Cocody,https://images.coinafrique.com/thumb_5628567_uploaded_image1_1763493811.jpg,2021
+207,Audi A3 2011,Audi,A3 2011,3900000,Cocody,https://images.coinafrique.com/thumb_5642850_uploaded_image1_1764186986.jpg,2011
+208,Land Rover Range Rover sport 2025,Land,Rover Range Rover sport 2025,130000000,Cocody,https://images.coinafrique.com/thumb_5610936_uploaded_image1_1762540215.jpg,2025
+209,Hyundai Elantra 2020,Hyundai,Elantra 2020,9800000,Cocody,https://images.coinafrique.com/thumb_5634225_uploaded_image1_1763753600.jpg,2020
+210,Nissan qashqai 2022,Nissan,qashqai 2022,13800000,Cocody,https://images.coinafrique.com/thumb_5628557_uploaded_image1_1763493447.jpg,2022
+211,Hyundai elantra gt 2019,Hyundai,elantra gt 2019,8300000,Cocody,https://images.coinafrique.com/thumb_5628563_uploaded_image1_1763493624.jpg,2019
+212,BMW 520i  2021,BMW,520i  2021,20800000,Cocody,https://images.coinafrique.com/thumb_5622230_uploaded_image1_1763146523.jpg,2021
+213,Toyota hilux 2022,Toyota,hilux 2022,18800000,Cocody,https://images.coinafrique.com/thumb_5609187_uploaded_image1_1762452794.jpg,2022
+214,Mazda cx-5 2016,Mazda,cx-5 2016,9600000,Angré,https://images.coinafrique.com/thumb_5628547_uploaded_image1_1763493127.jpg,2016
+215,KIA Sportage 2017,KIA,Sportage 2017,8800000,Cocody,https://images.coinafrique.com/thumb_5628540_uploaded_image1_1763492827.jpg,2017
+216,Kia Morning 2019,Kia,Morning 2019,5900000,Cocody,https://images.coinafrique.com/thumb_5647498_uploaded_image1_1764446487.jpg,2019
+217,Hyundai santa fe 2016,Hyundai,santa fe 2016,9800000,Angré,https://images.coinafrique.com/thumb_5628542_uploaded_image1_1763492943.jpg,2016
+218,Dongfeng Forthing  T5 2025,Dongfeng,Forthing  T5 2025,16900000,Cocody,https://images.coinafrique.com/thumb_5620685_uploaded_image1_1763059337.jpg,2025
+219,Land Rover Discovery 2019,Land,Rover Discovery 2019,13000000,Cocody,https://images.coinafrique.com/thumb_5620681_uploaded_image1_1763059241.jpg,2019
+220,KIA Sorento 2017,KIA,Sorento 2017,9500000,Cocody,https://images.coinafrique.com/thumb_5628536_uploaded_image1_1763492575.jpg,2017
+221,Hyundai Tucson 2016,Hyundai,Tucson 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5647494_uploaded_image1_1764446259.jpg,2016
+222,Toyota fchv 5 2019,Toyota,fchv 5 2019,13500000,Cocody,https://images.coinafrique.com/thumb_5605434_uploaded_image1_1762278822.jpg,2019
+223,Hyundai avante 2019,Hyundai,avante 2019,9800000,Cocody,https://images.coinafrique.com/thumb_5628533_uploaded_image1_1763492420.jpg,2019
+224,Kia sorento 2016,Kia,sorento 2016,10500000,Cocody,https://images.coinafrique.com/thumb_5628526_uploaded_image1_1763492285.jpg,2016
+225,Suzuki Dzire 2021,Suzuki,Dzire 2021,5400000,Cocody,https://images.coinafrique.com/thumb_5647493_uploaded_image1_1764446124.jpg,2021
+226,Kia Sportage 2019,Kia,Sportage 2019,9900000,Cocody,https://images.coinafrique.com/thumb_5647488_uploaded_image1_1764445959.jpg,2019
+227,Toyota land cruiser 2022,Toyota,land cruiser 2022,55000000,Cocody,https://images.coinafrique.com/thumb_5605430_uploaded_image1_1762278655.jpg,2022
+228,Kia Sportage 2006,Kia,Sportage 2006,6400000,Cocody,https://images.coinafrique.com/thumb_5647486_uploaded_image1_1764445761.jpg,2006
+229,Hyundai Tucson 2022,Hyundai,Tucson 2022,21900000,Cocody,https://images.coinafrique.com/thumb_5646126_uploaded_image1_1764359047.jpg,2022
+230,Kia sportage 2012,Kia,sportage 2012,7900000,Cocody,https://images.coinafrique.com/thumb_5605418_uploaded_image1_1762278323.jpg,2012
+231,Mazda cx-5 2019,Mazda,cx-5 2019,13800000,Cocody,https://images.coinafrique.com/thumb_5628523_uploaded_image1_1763492150.jpg,2019
+232,Mazda CX-5 2021,Mazda,CX-5 2021,14800000,Cocody,https://images.coinafrique.com/thumb_5642805_uploaded_image1_1764185432.jpg,2021
+233,Hyundai Stellar 2024,Hyundai,Stellar 2024,18000000,Cocody,https://images.coinafrique.com/thumb_5642799_uploaded_image1_1764185210.jpg,2024
+234,Haval Jolion 2025,Haval,Jolion 2025,16900000,Abidjan,https://images.coinafrique.com/thumb_5620666_uploaded_image1_1763058115.jpg,2025
+235,Toyota rav4 ev 2021,Toyota,rav4 ev 2021,22500000,Cocody,https://images.coinafrique.com/thumb_5616772_uploaded_image1_1762884555.jpg,2021
+236,Toyota Runx 2022,Toyota,Runx 2022,9500000,Cocody,https://images.coinafrique.com/thumb_5642774_uploaded_image1_1764184584.jpg,2022
+237,Kia Sportage 2017,Kia,Sportage 2017,9850000,Cocody,https://images.coinafrique.com/thumb_5642776_uploaded_image1_1764184703.jpg,2017
+238,Nissan Qashqai 2020,Nissan,Qashqai 2020,13600000,Cocody,https://images.coinafrique.com/thumb_5639066_uploaded_image1_1764011364.jpg,2020
+239,Ford Focus 2002,Ford,Focus 2002,2800000,Yopougon,https://images.coinafrique.com/thumb_5642778_uploaded_image1_1764184722.jpg,2002
+240,Mercedes-benz glc 43 2022,Mercedes-benz,glc 43 2022,39900000,Cocody,https://images.coinafrique.com/thumb_5605399_uploaded_image1_1762277461.jpg,2022
+241,Ford Everest 7 pkaces année 2010,Ford,Everest 7 pkaces année 2010,4800000,Cocody,https://images.coinafrique.com/thumb_5632424_uploaded_image1_1763664257.jpg,2010
+242,Kia rio 2021,Kia,rio 2021,8700000,Cocody,https://images.coinafrique.com/thumb_5616758_uploaded_image1_1762883845.jpg,2021
+243,Kia Picanto 2012,Kia,Picanto 2012,3800000,Yopougon,https://images.coinafrique.com/thumb_5642770_uploaded_image1_1764184477.jpg,2012
+244,Toyota rav4 2020,Toyota,rav4 2020,15800000,Cocody,https://images.coinafrique.com/thumb_5628488_uploaded_image1_1763490807.jpg,2020
+245,Kia seltos 2021,Kia,seltos 2021,15500000,Cocody,https://images.coinafrique.com/thumb_5614876_uploaded_image1_1762797718.jpg,2021
+246,Hyundai avante 2022,Hyundai,avante 2022,13500000,Cocody,https://images.coinafrique.com/thumb_5614862_uploaded_image1_1762797181.jpg,2022
+247,Ariel haval 2023,Ariel,haval 2023,13000000,Cocody,https://images.coinafrique.com/thumb_5628496_uploaded_image1_1763491112.jpg,2023
+248,Land rover velar p380 hse 2021,Land,rover velar p380 hse 2021,38500000,Cocody,https://images.coinafrique.com/thumb_5603569_uploaded_image1_1762190613.jpg,2021
+249,Hyundai kona 2023,Hyundai,kona 2023,14800000,Cocody,https://images.coinafrique.com/thumb_5624851_uploaded_image1_1763317825.jpg,2023
+250,Hyundai Santa fe 2015,Hyundai,Santa fe 2015,9600000,Cocody,https://images.coinafrique.com/thumb_5620645_uploaded_image1_1763057139.jpg,2015
+251,Hyundai tucson ix35  2012,Hyundai,tucson ix35  2012,8500000,Cocody,https://images.coinafrique.com/thumb_5628486_uploaded_image1_1763490636.jpg,2012
+252,Nissan kicks  2022,Nissan,kicks  2022,10500000,Cocody,https://images.coinafrique.com/thumb_5628482_uploaded_image1_1763490505.jpg,2022
+253,Toyota Corolla 2004,Toyota,Corolla 2004,3500000,Yopougon,https://images.coinafrique.com/thumb_5642762_uploaded_image1_1764184022.jpg,2004
+254,BMW x4 2018,BMW,x4 2018,8500000,Cocody,https://images.coinafrique.com/thumb_5607184_uploaded_image1_1762363345.jpg,2018
+255,Mitsubishi Pajero GLS  2018,Mitsubishi,Pajero GLS  2018,9000000,Yopougon,https://images.coinafrique.com/thumb_5642756_uploaded_image1_1764183716.jpg,2018
+256,Hyundai Santa Fe 2020,Hyundai,Santa Fe 2020,15500000,Cocody,https://images.coinafrique.com/thumb_5632413_uploaded_image1_1763663509.jpg,2020
+257,Nissan X-trail  2012,Nissan,X-trail  2012,3650000,Cocody,https://images.coinafrique.com/thumb_5617729_uploaded_image1_1762935409.jpg,2012
+258,Hyundai accent 2018,Hyundai,accent 2018,6750000,Abidjan,https://images.coinafrique.com/thumb_5614809_uploaded_image1_1762796206.jpg,2018
+259,Hyundai Santa Fe 2021,Hyundai,Santa Fe 2021,16700000,Cocody,https://images.coinafrique.com/thumb_5639018_uploaded_image1_1764010009.jpg,2021
+260,Kia Forte 2017,Kia,Forte 2017,7300000,Cocody,https://images.coinafrique.com/thumb_5640909_uploaded_image1_1764096786.jpg,2017
+261,Mercedes-benz ml 2013,Mercedes-benz,ml 2013,11700000,Cocody,https://images.coinafrique.com/thumb_5605364_uploaded_image1_1762275981.jpg,2013
+262,Kia Sportage 2017,Kia,Sportage 2017,8300000,Cocody,https://images.coinafrique.com/thumb_5642740_uploaded_image1_1764183085.jpg,2017
+263,Kia Sorento boite manuelle 2004,Kia,Sorento boite manuelle 2004,3800000,Cocody,https://images.coinafrique.com/thumb_5648938_uploaded_image1_1764529842.jpg,2004
+264,Toyota Vitz boite auto 2024,Toyota,Vitz boite auto 2024,5250000,Cocody,https://images.coinafrique.com/thumb_5634120_uploaded_image1_1763749539.jpg,2024
+265,SUZUKI Ciaz 2021,SUZUKI,Ciaz 2021,6800000,Cocody,https://images.coinafrique.com/thumb_5607146_uploaded_image1_1762362299.jpg,2021
+266,Toyota Corolla 2004,Toyota,Corolla 2004,4500000,Yopougon,https://images.coinafrique.com/thumb_5642738_uploaded_image1_1764183015.jpg,2004
+267,Mitsubishi eclispe cross 2019,Mitsubishi,eclispe cross 2019,13500000,Cocody,https://images.coinafrique.com/thumb_5603513_uploaded_image1_1762188722.jpg,2019
+268,Peugeot 307 2002,Peugeot,307 2002,2200000,Yopougon,https://images.coinafrique.com/thumb_5647438_uploaded_image1_1764442949.jpg,2002
+269,Kia Sportage 2007,Kia,Sportage 2007,6800000,Cocody,https://images.coinafrique.com/thumb_5640897_uploaded_image1_1764096379.jpg,2007
+270,Mitsubishi RVR 2019,Mitsubishi,RVR 2019,9900000,Cocody,https://images.coinafrique.com/thumb_5634108_uploaded_image1_1763749183.jpg,2019
+271,Mazda CX-9 2025,Mazda,CX-9 2025,33000000,Cocody,https://images.coinafrique.com/thumb_5634096_uploaded_image1_1763749028.jpg,2025
+272,Hyundai elantra 2021,Hyundai,elantra 2021,10500000,Abidjan,https://images.coinafrique.com/thumb_5613136_uploaded_image1_1762708715.jpg,2021
+273,SUZUKI Grand Vitara 2024,SUZUKI,Grand Vitara 2024,15700000,Cocody,https://images.coinafrique.com/thumb_5628436_uploaded_image1_1763488918.jpg,2024
+274,Hyundai sonata 2015,Hyundai,sonata 2015,6400000,Cocody,https://images.coinafrique.com/thumb_5618862_uploaded_image1_1762968986.jpg,2015
+275,Kia Sportage 2006,Kia,Sportage 2006,6700000,Cocody,https://images.coinafrique.com/thumb_5640895_uploaded_image1_1764096074.jpg,2006
+276,Hyundai Santa Fe 2016,Hyundai,Santa Fe 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5632397_uploaded_image1_1763662166.jpg,2016
+277,Hyundai Accent 2017,Hyundai,Accent 2017,6500000,Cocody,https://images.coinafrique.com/thumb_5640889_uploaded_image1_1764095754.jpg,2017
+278,Toyota rav4 2016,Toyota,rav4 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5628430_uploaded_image1_1763488728.jpg,2016
+279,Mercedes-benz glc300 2025,Mercedes-benz,glc300 2025,69000000,Abidjan,https://images.coinafrique.com/thumb_5613129_uploaded_image1_1762708475.jpg,2025
+280,Ford escape 2018,Ford,escape 2018,5900000,Cocody,https://images.coinafrique.com/thumb_5618845_uploaded_image1_1762968101.jpg,2018
+281,Hyundai creta 2016,Hyundai,creta 2016,9700000,Cocody,https://images.coinafrique.com/thumb_5628422_uploaded_image1_1763488341.jpg,2016
+282,Kia Rio 2012,Kia,Rio 2012,4450000,Cocody,https://images.coinafrique.com/thumb_5623570_uploaded_image1_1763228664.jpg,2012
+283,Hyundai tucson 2018,Hyundai,tucson 2018,10500000,Cocody,https://images.coinafrique.com/thumb_5628429_uploaded_image1_1763488574.jpg,2018
+284,Renault dokker  2020,Renault,dokker  2020,4300000,Cocody,https://images.coinafrique.com/thumb_5609188_uploaded_image1_1762452911.jpg,2020
+285,Mitsubishi L200 2021,Mitsubishi,L200 2021,20800000,Cocody,https://images.coinafrique.com/thumb_5605326_uploaded_image1_1762274208.jpg,2021
+286,Hyundai avante 2019,Hyundai,avante 2019,10300000,Cocody,https://images.coinafrique.com/thumb_5628419_uploaded_image1_1763488053.jpg,2019
+287,Mazda CX-5 2021,Mazda,CX-5 2021,14500000,Cocody,https://images.coinafrique.com/thumb_5638976_uploaded_image1_1764008234.jpg,2021
+288,Toyota rav4 2014,Toyota,rav4 2014,10500000,Cocody,https://images.coinafrique.com/thumb_5628421_uploaded_image1_1763488177.jpg,2014
+289,Hyundai santa fe sport 2021,Hyundai,santa fe sport 2021,24900000,Cocody,https://images.coinafrique.com/thumb_5616707_uploaded_image1_1762880852.jpg,2021
+290,Toyota land cruiser 2025,Toyota,land cruiser 2025,110000000,Cocody,https://images.coinafrique.com/thumb_5618821_uploaded_image1_1762967613.jpg,2025
+291,Audi a6 2018,Audi,a6 2018,13000000,Cocody,https://images.coinafrique.com/thumb_5618817_uploaded_image1_1762967507.jpg,2018
+292,Acura rl 2020,Acura,rl 2020,10500000,Cocody,https://images.coinafrique.com/thumb_5624796_uploaded_image1_1763314427.jpg,2020
+293,Kia seltos 2025,Kia,seltos 2025,14500000,Cocody,https://images.coinafrique.com/thumb_5624799_uploaded_image1_1763314572.jpg,2025
+294,Hyundai Santa Fe 2013,Hyundai,Santa Fe 2013,8800000,Cocody,https://images.coinafrique.com/thumb_5632383_uploaded_image1_1763661339.jpg,2013
+295,Mazda CX-5 2021,Mazda,CX-5 2021,16800000,Cocody,https://images.coinafrique.com/thumb_5638972_uploaded_image1_1764008115.jpg,2021
+296,KIA Sportage 2013,KIA,Sportage 2013,9300000,Cocody,https://images.coinafrique.com/thumb_5628418_uploaded_image1_1763487933.jpg,2013
+297,Toyota hilux  2018,Toyota,hilux  2018,14500000,Cocody,https://images.coinafrique.com/thumb_5609172_uploaded_image1_1762451952.jpg,2018
+298,BMW X3 xdrive 2017,BMW,X3 xdrive 2017,10900000,Cocody,https://images.coinafrique.com/thumb_5637014_uploaded_image1_1763920973.jpg,2017
+299,Kia Rio 2021,Kia,Rio 2021,8900000,Cocody,https://images.coinafrique.com/thumb_5642677_uploaded_image1_1764181012.jpg,2021
+300,Hyundai santa fe 2025,Hyundai,santa fe 2025,43000000,Cocody,https://images.coinafrique.com/thumb_5624789_uploaded_image1_1763314106.jpg,2025
+301,Mercedes-benz 450 2019,Mercedes-benz,450 2019,15950000,Cocody,https://images.coinafrique.com/thumb_5624793_uploaded_image1_1763314286.jpg,2019
+302,Toyota Echo 2003,Toyota,Echo 2003,2800000,Yopougon,https://images.coinafrique.com/thumb_5644493_uploaded_image1_1764267791.jpg,2003
+303,Hyundai santa fe 2018,Hyundai,santa fe 2018,11500000,Yopougon,https://images.coinafrique.com/thumb_5626552_uploaded_image1_1763400861.jpg,2018
+304,Toyota hilux  2018,Toyota,hilux  2018,14500000,Cocody,https://images.coinafrique.com/thumb_5609173_uploaded_image1_1762451960.jpg,2018
+305,Toyota hilux  2018,Toyota,hilux  2018,14500000,Cocody,https://images.coinafrique.com/thumb_5609171_uploaded_image1_1762451952.jpg,2018
+306,Jaguar F-type 2019,Jaguar,F-type 2019,23800000,Cocody,https://images.coinafrique.com/thumb_5614713_uploaded_image1_1762793504.jpg,2019
+307,Kia Forte 2020,Kia,Forte 2020,8800000,Cocody,https://images.coinafrique.com/thumb_5601743_uploaded_image1_1762099920.jpg,2020
+308,Mitsubishi outlander sport 2025,Mitsubishi,outlander sport 2025,35000000,Cocody,https://images.coinafrique.com/thumb_5624787_uploaded_image1_1763313974.jpg,2025
+309,Hyundai Elantra 2020,Hyundai,Elantra 2020,10900000,Cocody,https://images.coinafrique.com/thumb_5636994_uploaded_image1_1763920315.jpg,2020
+310,Volkswagen passat 2013,Volkswagen,passat 2013,4800000,Cocody,https://images.coinafrique.com/thumb_5612140_uploaded_image1_1762620018.jpg,2013
+311,Suzuki Dzire 2024,Suzuki,Dzire 2024,6200000,Cocody,https://images.coinafrique.com/thumb_5618805_uploaded_image1_1762966638.jpg,2024
+312,Hyundai Avente 2019,Hyundai,Avente 2019,10900000,Abidjan,https://images.coinafrique.com/thumb_5636995_uploaded_image1_1763920361.jpg,2019
+313,Peugeot 3008 2022,Peugeot,3008 2022,14500000,Cocody,https://images.coinafrique.com/thumb_5640837_uploaded_image1_1764094009.jpg,2022
+314,Hyundai Santa Fe 2022,Hyundai,Santa Fe 2022,20800000,Cocody,https://images.coinafrique.com/thumb_5637000_uploaded_image1_1763920499.jpg,2022
+315,Mitsubishi pajero 2018,Mitsubishi,pajero 2018,8950000,Cocody,https://images.coinafrique.com/thumb_5601745_uploaded_image1_1762100081.jpg,2018
+316,Hyundai tucson 2016,Hyundai,tucson 2016,8950000,Cocody,https://images.coinafrique.com/thumb_5618807_uploaded_image1_1762966805.jpg,2016
+317,Rover range rover 2018,Rover,range rover 2018,27500000,Angré,https://images.coinafrique.com/thumb_5628401_uploaded_image1_1763486880.jpg,2018
+318,Mercedes-benz mayback 2018,Mercedes-benz,mayback 2018,37000000,Yopougon,https://images.coinafrique.com/thumb_5626547_uploaded_image1_1763400502.jpg,2018
+319,Suzuki Grand Vitara 2023,Suzuki,Grand Vitara 2023,11500000,Cocody,https://images.coinafrique.com/thumb_5607081_uploaded_image1_1762359821.jpg,2023
+320,Kia Rio 2020,Kia,Rio 2020,8500000,Cocody,https://images.coinafrique.com/thumb_5644489_uploaded_image1_1764267578.jpg,2020
+321,Mazda 6 2020,Mazda,6 2020,8900000,Cocody,https://images.coinafrique.com/thumb_5624784_uploaded_image1_1763313859.jpg,2020
+322,Jeep wrangler 2022,Jeep,wrangler 2022,35000000,Cocody,https://images.coinafrique.com/thumb_5624783_uploaded_image1_1763313746.jpg,2022
+323,Mitsubishi outlander 2025,Mitsubishi,outlander 2025,38000000,Angré,https://images.coinafrique.com/thumb_5628405_uploaded_image1_1763487032.jpg,2025
+324,Mitsubishi outlander 2025,Mitsubishi,outlander 2025,38000000,Angré,https://images.coinafrique.com/thumb_5628410_uploaded_image1_1763487306.jpg,2025
+325,Suzuki Dzire 2023,Suzuki,Dzire 2023,5500000,Cocody,https://images.coinafrique.com/thumb_5618804_uploaded_image1_1762966516.jpg,2023
+326,kia forte 2015,kia,forte 2015,7300000,Angré,https://images.coinafrique.com/thumb_5628397_uploaded_image1_1763486696.jpg,2015
+327,Hyundai Sonata 2018,Hyundai,Sonata 2018,7800000,Cocody,https://images.coinafrique.com/thumb_5607066_uploaded_image1_1762359266.jpg,2018
+328,Hyundai Tucson limited 2023,Hyundai,Tucson limited 2023,24800000,Cocody,https://images.coinafrique.com/thumb_5605288_uploaded_image1_1762272481.jpg,2023
+329,kia sportage 2020,kia,sportage 2020,15000000,Angré,https://images.coinafrique.com/thumb_5628393_uploaded_image1_1763486446.jpg,2020
+330,Honda CR-V 2019,Honda,CR-V 2019,12800000,Yopougon,https://images.coinafrique.com/thumb_5647385_uploaded_image1_1764439828.jpg,2019
+331,Hyundai creta 2016,Hyundai,creta 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5626526_uploaded_image1_1763399433.jpg,2016
+332,kia sorento 2016,kia,sorento 2016,10600000,Angré,https://images.coinafrique.com/thumb_5628384_uploaded_image1_1763485903.jpg,2016
+333,Hyundai Santa Fe htrac 2025,Hyundai,Santa Fe htrac 2025,38800000,Abidjan,https://images.coinafrique.com/thumb_5638913_uploaded_image1_1764006291.jpg,2025
+334,Mazda CX-5 2025,Mazda,CX-5 2025,23800000,Cocody,https://images.coinafrique.com/thumb_5614687_uploaded_image1_1762792049.jpg,2025
+335,Jaguar F Pace 2019,Jaguar,F Pace 2019,23800000,Abidjan,https://images.coinafrique.com/thumb_5614685_uploaded_image1_1762792010.jpg,2019
+336,Kia Sportage 2020,Kia,Sportage 2020,15900000,Cocody,https://images.coinafrique.com/thumb_5636970_uploaded_image1_1763919367.jpg,2020
+337,Ford Ecosport 2021,Ford,Ecosport 2021,11900000,Cocody,https://images.coinafrique.com/thumb_5636967_uploaded_image1_1763919154.jpg,2021
+338,Audi A3 2025,Audi,A3 2025,33900000,Cocody,https://images.coinafrique.com/thumb_5636962_uploaded_image1_1763918955.jpg,2025
+339,Kia sportage s 2020,Kia,sportage s 2020,16800000,Cocody,https://images.coinafrique.com/thumb_5628369_uploaded_image1_1763485352.jpg,2020
+340,BMW X3 Xdrive 2026,BMW,X3 Xdrive 2026,54900000,Abidjan,https://images.coinafrique.com/thumb_5632323_uploaded_image1_1763658734.jpg,2026
+341,Toyota matrix 2005,Toyota,matrix 2005,4800000,Cocody,https://images.coinafrique.com/thumb_5630330_uploaded_image1_1763572053.jpg,2005
+342,Kia Rio 2021,Kia,Rio 2021,8500000,Cocody,https://images.coinafrique.com/thumb_5644444_uploaded_image1_1764265692.jpg,2021
+343,GMC Sierra 2022,GMC,Sierra 2022,36000000,Cocody,https://images.coinafrique.com/thumb_5638893_uploaded_image1_1764005610.jpg,2022
+344,Hyundai Santa Fe 2008,Hyundai,Santa Fe 2008,4600000,Cocody,https://images.coinafrique.com/thumb_5638890_uploaded_image1_1764005401.jpg,2008
+345,Hyundai Santa Fe 2016,Hyundai,Santa Fe 2016,8900000,Cocody,https://images.coinafrique.com/thumb_5635528_uploaded_image1_1763831953.jpg,2016
+346,Hyundai tucson 2021,Hyundai,tucson 2021,17000000,Cocody,https://images.coinafrique.com/thumb_5628361_uploaded_image1_1763485060.jpg,2021
+347,Ford Escape 2021,Ford,Escape 2021,13500000,Cocody,https://images.coinafrique.com/thumb_5636959_uploaded_image1_1763918773.jpg,2021
+348,Hyundai tucson 2019,Hyundai,tucson 2019,13600000,Cocody,https://images.coinafrique.com/thumb_5628365_uploaded_image1_1763485157.jpg,2019
+349,BMW X6 2021,BMW,X6 2021,38000000,Cocody,https://images.coinafrique.com/thumb_5632320_uploaded_image1_1763658536.jpg,2021
+350,Hyundai Tucson 2020,Hyundai,Tucson 2020,13900000,Cocody,https://images.coinafrique.com/thumb_5635522_uploaded_image1_1763831788.jpg,2020
+351,Nissan Navara 2022,Nissan,Navara 2022,20900000,Cocody,https://images.coinafrique.com/thumb_5607027_uploaded_image1_1762358046.jpg,2022
+352,Toyota Fortuner 2021,Toyota,Fortuner 2021,24900000,Cocody,https://images.coinafrique.com/thumb_5607034_uploaded_image1_1762358214.jpg,2021
+353,Honda CR-V Sport hybrid 2025,Honda,CR-V Sport hybrid 2025,35000000,Cocody,https://images.coinafrique.com/thumb_5616663_uploaded_image1_1762878354.jpg,2025
+354,Mercedes-Benz GLC 300 2023,Mercedes-Benz,GLC 300 2023,38000000,Cocody,https://images.coinafrique.com/thumb_5647365_uploaded_image1_1764438877.jpg,2023
+355,Nissan Patrol 2023,Nissan,Patrol 2023,44900000,Angré,https://images.coinafrique.com/thumb_5628349_uploaded_image1_1763484808.jpg,2023
+356,Kia K5 2023,Kia,K5 2023,18500000,Abidjan,https://images.coinafrique.com/thumb_5640776_uploaded_image1_1764091730.jpg,2023
+357,Suzuki Vitara 2022,Suzuki,Vitara 2022,10900000,Cocody,https://images.coinafrique.com/thumb_5638882_uploaded_image1_1764005036.jpg,2022
+358,Dodge Ram 2022,Dodge,Ram 2022,23900000,Cocody,https://images.coinafrique.com/thumb_5636947_uploaded_image1_1763918330.jpg,2022
+359,Hyundai Santa Fe 2017,Hyundai,Santa Fe 2017,9900000,Cocody,https://images.coinafrique.com/thumb_5635514_uploaded_image1_1763831597.jpg,2017
+360,Kia Sorento 2021,Kia,Sorento 2021,15500000,Cocody,https://images.coinafrique.com/thumb_5632307_uploaded_image1_1763658124.jpg,2021
+361,Hyundai tucson 2020,Hyundai,tucson 2020,16000000,Cocody,https://images.coinafrique.com/thumb_5628352_uploaded_image1_1763484903.jpg,2020
+362,Kia Avella 2020,Kia,Avella 2020,15900000,Cocody,https://images.coinafrique.com/thumb_5635506_uploaded_image1_1763831409.jpg,2020
+363,Kia Sportage 2021,Kia,Sportage 2021,13950000,Cocody,https://images.coinafrique.com/thumb_5635501_uploaded_image1_1763831262.jpg,2021
+364,Dodge Caliber 2008,Dodge,Caliber 2008,3900000,Cocody,https://images.coinafrique.com/thumb_5636941_uploaded_image1_1763917975.jpg,2008
+365,Hyundai kona 2022,Hyundai,kona 2022,13000000,Angré,https://images.coinafrique.com/thumb_5628341_uploaded_image1_1763484630.jpg,2022
+366,Nissan Micra 2021,Nissan,Micra 2021,4900000,Cocody,https://images.coinafrique.com/thumb_5636945_uploaded_image1_1763918100.jpg,2021
+367,Toyota rav4 2021,Toyota,rav4 2021,21500000,Cocody,https://images.coinafrique.com/thumb_5630303_uploaded_image1_1763570925.jpg,2021
+368,BMW X6 2021,BMW,X6 2021,37800000,Abidjan,https://images.coinafrique.com/thumb_5632303_uploaded_image1_1763657940.jpg,2021
+369,Suzuki Baleno 2024,Suzuki,Baleno 2024,6900000,Cocody,https://images.coinafrique.com/thumb_5635490_uploaded_image1_1763830971.jpg,2024
+370,Kia Sportage 2017,Kia,Sportage 2017,8900000,Abidjan,https://images.coinafrique.com/thumb_5623512_uploaded_image1_1763224016.jpg,2017
+371,Land rover range rover 2019,Land,rover range rover 2019,28800000,Cocody,https://images.coinafrique.com/thumb_5630296_uploaded_image1_1763570584.jpg,2019
+372,Mercedes-benz gl-class 2022,Mercedes-benz,gl-class 2022,35000000,Cocody,https://images.coinafrique.com/thumb_5630300_uploaded_image1_1763570715.jpg,2022
+373,Toyota Land Cruiser VX.R 2025,Toyota,Land Cruiser VX.R 2025,88000000,Cocody,https://images.coinafrique.com/thumb_5635480_uploaded_image1_1763830682.jpg,2025
+374,Nissan Patrol 2022,Nissan,Patrol 2022,43800000,Cocody,https://images.coinafrique.com/thumb_5614651_uploaded_image1_1762790773.jpg,2022
+375,Mitsubishi l200 2024,Mitsubishi,l200 2024,16800000,Cocody,https://images.coinafrique.com/thumb_5609093_uploaded_image1_1762448460.jpg,2024
+376,Honda CRV 2021,Honda,CRV 2021,15000000,Abidjan,https://images.coinafrique.com/thumb_5635485_uploaded_image1_1763830868.jpg,2021
+377,Hyundai Tucson 2022,Hyundai,Tucson 2022,17900000,Cocody,https://images.coinafrique.com/thumb_5648767_uploaded_image1_1764524065.jpg,2022
+378,Nissan Patrol 2018,Nissan,Patrol 2018,18500000,Cocody,https://images.coinafrique.com/thumb_5606999_uploaded_image1_1762356607.jpg,2018
+379,Toyota Fortuner 2021,Toyota,Fortuner 2021,25900000,Cocody,https://images.coinafrique.com/thumb_5607006_uploaded_image1_1762356936.jpg,2021
+380,Hyundai elantra 2019,Hyundai,elantra 2019,10900000,Cocody,https://images.coinafrique.com/thumb_5630289_uploaded_image1_1763570330.jpg,2019
+381,Ford F-150 2019,Ford,F-150 2019,21400000,Abidjan,https://images.coinafrique.com/thumb_5601678_uploaded_image1_1762097084.jpg,2019
+382,Kia sportage 2024,Kia,sportage 2024,24000000,Cocody,https://images.coinafrique.com/thumb_5630286_uploaded_image1_1763570199.jpg,2024
+383,Mercedes-benz GL 2017,Mercedes-benz,GL 2017,22500000,Cocody,https://images.coinafrique.com/thumb_5606995_uploaded_image1_1762356456.jpg,2017
+384,Peugeot 3008 2022,Peugeot,3008 2022,14900000,Cocody,https://images.coinafrique.com/thumb_5648763_uploaded_image1_1764523935.jpg,2022
+385,Toyota Rav4 trail  2022,Toyota,Rav4 trail  2022,21900000,Cocody,https://images.coinafrique.com/thumb_5648761_uploaded_image1_1764523841.jpg,2022
+386,Toyota hilux 2021,Toyota,hilux 2021,32000000,Cocody,https://images.coinafrique.com/thumb_5630280_uploaded_image1_1763570053.jpg,2021
+387,GMC terrain 2022,GMC,terrain 2022,23000000,Cocody,https://images.coinafrique.com/thumb_5630275_uploaded_image1_1763569921.jpg,2022
+388,Mercedes-Benz  GLC  300 2019,Mercedes-Benz,GLC  300 2019,13800000,Yopougon,https://images.coinafrique.com/thumb_5612074_uploaded_image1_1762616310.jpg,2019
+389,Haval H9  2025,Haval,H9  2025,33500000,Cocody,https://images.coinafrique.com/thumb_5648757_uploaded_image1_1764523688.jpg,2025
+390,Mazda CX30 awd 2025,Mazda,CX30 awd 2025,22000000,Cocody,https://images.coinafrique.com/thumb_5612075_uploaded_image1_1762616325.jpg,2025
+391,Hyundai tucson 2021,Hyundai,tucson 2021,13900000,Cocody,https://images.coinafrique.com/thumb_5632272_uploaded_image1_1763656312.jpg,2021
+392,Mazda cx-60 2025,Mazda,cx-60 2025,33000000,Cocody,https://images.coinafrique.com/thumb_5630272_uploaded_image1_1763569827.jpg,2025
+393,Hyundai IX35 2012,Hyundai,IX35 2012,7700000,Cocody,https://images.coinafrique.com/thumb_5638853_uploaded_image1_1764003516.jpg,2012
+394,Hyundai Santa fe 2025,Hyundai,Santa fe 2025,39900000,Cocody,https://images.coinafrique.com/thumb_5618725_uploaded_image1_1762962966.jpg,2025
+395,BMW 528 2012,BMW,528 2012,3500000,Cocody,https://images.coinafrique.com/thumb_5618717_uploaded_image1_1762962767.jpg,2012
+396,BMW X4 2017,BMW,X4 2017,8500000,Cocody,https://images.coinafrique.com/thumb_5606991_uploaded_image1_1762356264.jpg,2017
+397,Mitsubishi ASX 2014,Mitsubishi,ASX 2014,5900000,Cocody,https://images.coinafrique.com/thumb_5648741_uploaded_image1_1764523266.jpg,2014
+398,Renault Logan 2014,Renault,Logan 2014,2700000,Cocody,https://images.coinafrique.com/thumb_5648734_uploaded_image1_1764523135.jpg,2014
+399,Honda CRV-5 touring  2019,Honda,CRV-5 touring  2019,14800000,Cocody,https://images.coinafrique.com/thumb_5632263_uploaded_image1_1763656101.jpg,2019
+400,Hyundai Tucson 2022,Hyundai,Tucson 2022,18900000,Cocody,https://images.coinafrique.com/thumb_5618714_uploaded_image1_1762962640.jpg,2022
+401,Mercedes-benz GL 2017,Mercedes-benz,GL 2017,21900000,Cocody,https://images.coinafrique.com/thumb_5618708_uploaded_image1_1762962492.jpg,2017
+402,Hyundai Santa Fe 2018,Hyundai,Santa Fe 2018,9950000,Cocody,https://images.coinafrique.com/thumb_5648730_uploaded_image1_1764523093.jpg,2018
+403,Nissan Patrol 2017,Nissan,Patrol 2017,16900000,Cocody,https://images.coinafrique.com/thumb_5648726_uploaded_image1_1764522992.jpg,2017
+404,Honda Accord 2022,Honda,Accord 2022,14900000,Cocody,https://images.coinafrique.com/thumb_5648720_uploaded_image1_1764522870.jpg,2022
+405,Suzuki Fronte 2024,Suzuki,Fronte 2024,13800000,Cocody,https://images.coinafrique.com/thumb_5618700_uploaded_image1_1762962192.jpg,2024
+406,Kia Sportage 2021,Kia,Sportage 2021,14900000,Cocody,https://images.coinafrique.com/thumb_5632250_uploaded_image1_1763655802.jpg,2021
+407,Mazda CX-09 2024,Mazda,CX-09 2024,44500000,Cocody,https://images.coinafrique.com/thumb_5618704_uploaded_image1_1762962334.jpg,2024
+408,Kia Sorento 2020,Kia,Sorento 2020,15800000,Cocody,https://images.coinafrique.com/thumb_5632256_uploaded_image1_1763655936.jpg,2020
+409,Toyota Fortuner 2023,Toyota,Fortuner 2023,31500000,Cocody,https://images.coinafrique.com/thumb_5638836_uploaded_image1_1764002649.jpg,2023
+410,Hyundai Sonata 2022,Hyundai,Sonata 2022,15500000,Cocody,https://images.coinafrique.com/thumb_5606983_uploaded_image1_1762355764.jpg,2022
+411,Mercedes-benz GL 2021,Mercedes-benz,GL 2021,28000000,Cocody,https://images.coinafrique.com/thumb_5618696_uploaded_image1_1762962069.jpg,2021
+412,Kia Sportage 2021,Kia,Sportage 2021,13950000,Cocody,https://images.coinafrique.com/thumb_5638825_uploaded_image1_1764002207.jpg,2021
+413,Mercedes-benz A 2022,Mercedes-benz,A 2022,28000000,Cocody,https://images.coinafrique.com/thumb_5618691_uploaded_image1_1762961934.jpg,2022
+414,Nissan Sunny 2025,Nissan,Sunny 2025,9850000,Cocody,https://images.coinafrique.com/thumb_5648691_uploaded_image1_1764522315.jpg,2025
+415,Hyundai Santa Fe 2016,Hyundai,Santa Fe 2016,8900000,Cocody,https://images.coinafrique.com/thumb_5648688_uploaded_image1_1764522239.jpg,2016
+416,Mercedes-benz GLE 53 2022,Mercedes-benz,GLE 53 2022,55000000,Abidjan,https://images.coinafrique.com/thumb_5603303_uploaded_image1_1762181468.jpg,2022
+417,Ford Focus boite auto phase 2,Ford,Focus boite auto phase 2,3850000,Cocody,https://images.coinafrique.com/thumb_5633933_uploaded_image1_1763741976.jpg,2
+418,Mazda CX-5 2025,Mazda,CX-5 2025,23000000,Cocody,https://images.coinafrique.com/thumb_5606965_uploaded_image1_1762354807.jpg,2025
+419,Kia Sportage 2010,Kia,Sportage 2010,6500000,Cocody,https://images.coinafrique.com/thumb_5628322_uploaded_image1_1763484112.jpg,2010
+420,Hyundai Tucson 2022,Hyundai,Tucson 2022,22800000,Cocody,https://images.coinafrique.com/thumb_5647325_uploaded_image1_1764435543.jpg,2022
+421,Hyundai Kona 2023,Hyundai,Kona 2023,14500000,Cocody,https://images.coinafrique.com/thumb_5616591_uploaded_image1_1762874985.jpg,2023
+422,Hyundai Santa fe 2018,Hyundai,Santa fe 2018,7900000,Cocody,https://images.coinafrique.com/thumb_5638817_uploaded_image1_1764002061.jpg,2018
+423,Toyota Fortuner 2019,Toyota,Fortuner 2019,23300000,Yopougon,https://images.coinafrique.com/thumb_5626410_uploaded_image1_1763395009.jpg,2019
+424,Opel Astra 2001,Opel,Astra 2001,3000000,Yopougon,https://images.coinafrique.com/thumb_5626418_uploaded_image1_1763395145.jpg,2001
+425,Nissan Kicks 2022,Nissan,Kicks 2022,9000000,Angré,https://images.coinafrique.com/thumb_5628254_uploaded_image1_1763481467.jpg,2022
+426,Mitsubishi Outlander 2010,Mitsubishi,Outlander 2010,5800000,Yopougon,https://images.coinafrique.com/thumb_5624671_uploaded_image1_1763308192.jpg,2010
+427,Mercedes-benz C450 2019,Mercedes-benz,C450 2019,16000000,Cocody,https://images.coinafrique.com/thumb_5620409_uploaded_image1_1763047994.jpg,2019
+428,Hyundai Santa fe 2021,Hyundai,Santa fe 2021,26500000,Cocody,https://images.coinafrique.com/thumb_5638809_uploaded_image1_1764001871.jpg,2021
+429,Kia Rio 2017,Kia,Rio 2017,6500000,Cocody,https://images.coinafrique.com/thumb_5638807_uploaded_image1_1764001751.jpg,2017
+430,Ford Explorer 2020,Ford,Explorer 2020,27800000,Abidjan,https://images.coinafrique.com/thumb_5603287_uploaded_image1_1762181145.jpg,2020
+431,Toyota Rav4 2023,Toyota,Rav4 2023,23800000,Abidjan,https://images.coinafrique.com/thumb_5628242_uploaded_image1_1763481143.jpg,2023
+432,BMW X5 2020,BMW,X5 2020,32900000,Cocody,https://images.coinafrique.com/thumb_5610615_uploaded_image1_1762527493.jpg,2020
+433,Toyota Highlander 2020,Toyota,Highlander 2020,27800000,Abidjan,https://images.coinafrique.com/thumb_5621978_uploaded_image1_1763134525.jpg,2020
+434,Hyundai Tucson 2022,Hyundai,Tucson 2022,23000000,Abidjan,https://images.coinafrique.com/thumb_5603278_uploaded_image1_1762180688.jpg,2022
+435,B%W X5 2021,B%W,X5 2021,32900000,Angré,https://images.coinafrique.com/thumb_5610619_uploaded_image1_1762527565.jpg,2021
+436,Toyota yaris 2019,Toyota,yaris 2019,8000000,Cocody,https://images.coinafrique.com/thumb_5619977_uploaded_image1_1763033299.jpg,2019
+437,Toyota Rav4 2023,Toyota,Rav4 2023,23800000,Cocody,https://images.coinafrique.com/thumb_5628251_uploaded_image1_1763481372.jpg,2023
+438,Toyota Hilux 2019,Toyota,Hilux 2019,14500000,Cocody,https://images.coinafrique.com/thumb_5608878_uploaded_image1_1762440791.jpg,2019
+439,Suzuki Dzire 2022,Suzuki,Dzire 2022,5400000,Angré,https://images.coinafrique.com/thumb_5635452_uploaded_image1_1763827896.jpg,2022
+440,Hyundai Santa fe 2020,Hyundai,Santa fe 2020,17500000,Angré,https://images.coinafrique.com/thumb_5610229_uploaded_image1_1762513008.jpg,2020
+441,Hyundai Santa fe 2019,Hyundai,Santa fe 2019,15500000,Angré,https://images.coinafrique.com/thumb_5635456_uploaded_image1_1763828112.jpg,2019
+442,Toyota Avensis 2004,Toyota,Avensis 2004,4500000,Yopougon,https://images.coinafrique.com/thumb_5626394_uploaded_image1_1763394667.jpg,2004
+443,Toyota corolla 2019,Toyota,corolla 2019,8500000,Cocody,https://images.coinafrique.com/thumb_5619958_uploaded_image1_1763033004.jpg,2019
+444,Nissan Rogue 2014,Nissan,Rogue 2014,6800000,Abidjan,https://images.coinafrique.com/thumb_5642524_uploaded_image1_1764174097.jpg,2014
+445,Rover Range Rover  Sport 2021,Rover,Range Rover  Sport 2021,39900000,Angré,https://images.coinafrique.com/thumb_5628238_uploaded_image1_1763481004.jpg,2021
+446,Hyundai Palissade 2022,Hyundai,Palissade 2022,29800000,Angré,https://images.coinafrique.com/thumb_5628225_uploaded_image1_1763480566.jpg,2022
+447,Honda cr-v 2021,Honda,cr-v 2021,15500000,Cocody,https://images.coinafrique.com/thumb_5619942_uploaded_image1_1763032700.jpg,2021
+448,Toyota Rav4 2021,Toyota,Rav4 2021,20800000,Abidjan,https://images.coinafrique.com/thumb_5632197_uploaded_image1_1763653819.jpg,2021
+449,Mitsubishi  L200 2023,Mitsubishi,L200 2023,22900000,Angré,https://images.coinafrique.com/thumb_5608836_uploaded_image1_1762439815.jpg,2023
+450,BMW X4 2017,BMW,X4 2017,8500000,Angré,https://images.coinafrique.com/thumb_5608852_uploaded_image1_1762439956.jpg,2017
+451,Audi SQ5 2024,Audi,SQ5 2024,35800000,Cocody,https://images.coinafrique.com/thumb_5608853_uploaded_image1_1762439982.jpg,2024
+452,Mercedes-benz GL-class 2016,Mercedes-benz,GL-class 2016,13900000,Cocody,https://images.coinafrique.com/thumb_5616550_uploaded_image1_1762873815.jpg,2016
+453,Audi Q5 sline  2022,Audi,Q5 sline  2022,25000000,Abidjan,https://images.coinafrique.com/thumb_5642520_uploaded_image1_1764173955.jpg,2022
+454,Kia sorento 2021,Kia,sorento 2021,18500000,Cocody,https://images.coinafrique.com/thumb_5620390_uploaded_image1_1763047206.jpg,2021
+455,Mercedes-benz GLC 2022,Mercedes-benz,GLC 2022,25800000,Angré,https://images.coinafrique.com/thumb_5628215_uploaded_image1_1763480243.jpg,2022
+456,Hyundai Kona 2021,Hyundai,Kona 2021,12900000,Cocody,https://images.coinafrique.com/thumb_5638785_uploaded_image1_1764000450.jpg,2021
+457,Hyundai Tucson 2025,Hyundai,Tucson 2025,29000000,Cocody,https://images.coinafrique.com/thumb_5603256_uploaded_image1_1762179580.jpg,2025
+458,BMW X4 Xdrive 2017,BMW,X4 Xdrive 2017,8500000,Cocody,https://images.coinafrique.com/thumb_5608829_uploaded_image1_1762439755.jpg,2017
+459,Hyundai Elantra 2021,Hyundai,Elantra 2021,14900000,Cocody,https://images.coinafrique.com/thumb_5608832_uploaded_image1_1762439785.jpg,2021
+460,BMW X3 2023,BMW,X3 2023,25900000,Cocody,https://images.coinafrique.com/thumb_5606893_uploaded_image1_1762352519.jpg,2023
+461,Nissan Navara 2023,Nissan,Navara 2023,20900000,Angré,https://images.coinafrique.com/thumb_5608823_uploaded_image1_1762439650.jpg,2023
+462,Mercedes-benz C-class C300 2024,Mercedes-benz,C-class C300 2024,35000000,Cocody,https://images.coinafrique.com/thumb_5630209_uploaded_image1_1763566799.jpg,2024
+463,Mercedes benz GLE  63s AMG 2022,Mercedes,benz GLE  63s AMG 2022,98000000,Angré,https://images.coinafrique.com/thumb_5628201_uploaded_image1_1763479719.jpg,2022
+464,Ford Expedition 2025,Ford,Expedition 2025,95000000,Cocody,https://images.coinafrique.com/thumb_5603239_uploaded_image1_1762179246.jpg,2025
+465,Mercedes-benz C200 2023,Mercedes-benz,C200 2023,35000000,Angré,https://images.coinafrique.com/thumb_5628207_uploaded_image1_1763479972.jpg,2023
+466,BMW Xi 2013,BMW,Xi 2013,4200000,Cocody,https://images.coinafrique.com/thumb_5628195_uploaded_image1_1763479563.jpg,2013
+467,Peugeot 3008 2022,Peugeot,3008 2022,14900000,Cocody,https://images.coinafrique.com/thumb_5645856_uploaded_image1_1764346530.jpg,2022
+468,Ford Escape 2022,Ford,Escape 2022,14800000,Cocody,https://images.coinafrique.com/thumb_5647292_uploaded_image1_1764432857.jpg,2022
+469,Audi SQ2 2024,Audi,SQ2 2024,35800000,Abidjan,https://images.coinafrique.com/thumb_5608804_uploaded_image1_1762438983.jpg,2024
+470,Nissan Navara 2023,Nissan,Navara 2023,20900000,Cocody,https://images.coinafrique.com/thumb_5608789_uploaded_image1_1762438584.jpg,2023
+471,Mitsubishi  L200 2023,Mitsubishi,L200 2023,22900000,Cocody,https://images.coinafrique.com/thumb_5608784_uploaded_image1_1762438424.jpg,2023
+472,Toyota Land Cruiser 2021,Toyota,Land Cruiser 2021,35000000,Cocody,https://images.coinafrique.com/thumb_5626186_uploaded_image1_1763388435.jpg,2021
+473,Hyundai Palisade 2021,Hyundai,Palisade 2021,32000000,Cocody,https://images.coinafrique.com/thumb_5603211_uploaded_image1_1762178520.jpg,2021
+474,Nissan Patrol 2017,Nissan,Patrol 2017,18500000,Cocody,https://images.coinafrique.com/thumb_5606847_uploaded_image1_1762351315.jpg,2017
+475,Whey Mocha 2025,Whey,Mocha 2025,57900000,Cocody,https://images.coinafrique.com/thumb_5606852_uploaded_image1_1762351528.jpg,2025
+476,Kia Sportage 2018,Kia,Sportage 2018,10500000,Abidjan,https://images.coinafrique.com/thumb_5636819_uploaded_image1_1763911986.jpg,2018
+477,Hyundai Elantra 2021,Hyundai,Elantra 2021,10800000,Cocody,https://images.coinafrique.com/thumb_5633840_uploaded_image1_1763738471.jpg,2021
+478,Mercedes-benz GLC 43 2018,Mercedes-benz,GLC 43 2018,23000000,Abidjan,https://images.coinafrique.com/thumb_5640558_uploaded_image1_1764085067.jpg,2018
+479,Hyundai Palisade 2025,Hyundai,Palisade 2025,43000000,Cocody,https://images.coinafrique.com/thumb_5630150_uploaded_image1_1763564908.jpg,2025
+480,Mitsubishi Pajero 2023,Mitsubishi,Pajero 2023,24000000,Cocody,https://images.coinafrique.com/thumb_5601608_uploaded_image1_1762090937.jpg,2023
+481,Mercedes benz 63s AMG 2018,Mercedes,benz 63s AMG 2018,22900000,Cocody,https://images.coinafrique.com/thumb_5606841_uploaded_image1_1762351175.jpg,2018
+482,Mazda BT-50 2018,Mazda,BT-50 2018,7950000,Cocody,https://images.coinafrique.com/thumb_5606834_uploaded_image1_1762351030.jpg,2018
+483,Toyota Rav4 ev 2021,Toyota,Rav4 ev 2021,20800000,Cocody,https://images.coinafrique.com/thumb_5632149_uploaded_image1_1763651231.jpg,2021
+484,Lexus RX 350 2022,Lexus,RX 350 2022,26500000,Cocody,https://images.coinafrique.com/thumb_5630125_uploaded_image1_1763564437.jpg,2022
+485,Kia Sorento 2018,Kia,Sorento 2018,13800000,Cocody,https://images.coinafrique.com/thumb_5603141_uploaded_image1_1762175952.jpg,2018
+486,Hyundai Tucson 2023,Hyundai,Tucson 2023,22800000,Cocody,https://images.coinafrique.com/thumb_5626249_uploaded_image1_1763390121.jpg,2023
+487,BMW X3 2023,BMW,X3 2023,25800000,Abidjan,https://images.coinafrique.com/thumb_5606782_uploaded_image1_1762349556.jpg,2023
+488,Honda CRV-5  2019,Honda,CRV-5  2019,11000000,Cocody,https://images.coinafrique.com/thumb_5642474_uploaded_image1_1764170257.jpg,2019
+489,Mazda 323 2003,Mazda,323 2003,1800000,Yopougon,https://images.coinafrique.com/thumb_5612984_uploaded_image1_1762696577.jpg,2003
+490,Hyundai Avante  2021,Hyundai,Avante  2021,13000000,Cocody,https://images.coinafrique.com/thumb_5628097_uploaded_image1_1763476703.jpg,2021
+491,Kia K5 2024,Kia,K5 2024,16300000,Abidjan,https://images.coinafrique.com/thumb_5642476_uploaded_image1_1764170371.jpg,2024
+492,Hyundai Palisade Calligraphy  2026,Hyundai,Palisade Calligraphy  2026,62800000,Abidjan,https://images.coinafrique.com/thumb_5628084_uploaded_image1_1763476359.jpg,2026
+493,Hyundai Avante 2022,Hyundai,Avante 2022,13000000,Cocody,https://images.coinafrique.com/thumb_5628082_uploaded_image1_1763476211.jpg,2022
+494,Honda CR-V 2022,Honda,CR-V 2022,19800000,Cocody,https://images.coinafrique.com/thumb_5645791_uploaded_image1_1764343097.jpg,2022
+495,Kia Sportage 2019,Kia,Sportage 2019,9900000,Cocody,https://images.coinafrique.com/thumb_5647238_uploaded_image1_1764429803.jpg,2019
+496,Suzuki Grand Vitara 2016,Suzuki,Grand Vitara 2016,5950000,Cocody,https://images.coinafrique.com/thumb_5638628_uploaded_image1_1763995995.jpg,2016
+497,Suzuki Grand Vitara 2023,Suzuki,Grand Vitara 2023,13900000,Cocody,https://images.coinafrique.com/thumb_5628064_uploaded_image1_1763475748.jpg,2023
+498,Honda  Accord 2002,Honda,Accord 2002,2800000,Cocody,https://images.coinafrique.com/thumb_5633785_uploaded_image1_1763735920.jpg,2002
+499,GMC Yukon 2023,GMC,Yukon 2023,85000000,Cocody,https://images.coinafrique.com/thumb_5603120_uploaded_image1_1762175423.jpg,2023
+500,Mercedes-benz 300 2021,Mercedes-benz,300 2021,26500000,Cocody,https://images.coinafrique.com/thumb_5626203_uploaded_image1_1763389089.jpg,2021
+501,Lexus UX250h hybride  2019,Lexus,UX250h hybride  2019,17500000,Cocody,https://images.coinafrique.com/thumb_5628060_uploaded_image1_1763475632.jpg,2019
+502,Land Rover Range Rover vogue 2023,Land,Rover Range Rover vogue 2023,119000000,Abidjan,https://images.coinafrique.com/thumb_5603110_uploaded_image1_1762174991.jpg,2023
+503,Toyota Rav4 2021,Toyota,Rav4 2021,13000000,Cocody,https://images.coinafrique.com/thumb_5640463_uploaded_image1_1764082531.jpg,2021
+504,Mazda 3 2018,Mazda,3 2018,6400000,Cocody,https://images.coinafrique.com/thumb_5640457_uploaded_image1_1764082410.jpg,2018
+505,Hyundai Tucson 2020,Hyundai,Tucson 2020,15500000,Cocody,https://images.coinafrique.com/thumb_5616371_uploaded_image1_1762868948.jpg,2020
+506,Mercedes-benz A 2024,Mercedes-benz,A 2024,26500000,Cocody,https://images.coinafrique.com/thumb_5614487_uploaded_image1_1762782300.jpg,2024
+507,Mazda CX-9 2023,Mazda,CX-9 2023,28800000,Cocody,https://images.coinafrique.com/thumb_5603112_uploaded_image1_1762175035.jpg,2023
+508,Abarth ot 2025,Abarth,ot 2025,25800000,Cocody,https://images.coinafrique.com/thumb_5603119_uploaded_image1_1762175296.jpg,2025
+509,Abarth OT 2025,Abarth,OT 2025,28500000,Cocody,https://images.coinafrique.com/thumb_5603114_uploaded_image1_1762175172.jpg,2025
+510,Hyundai Santa fe 2017,Hyundai,Santa fe 2017,10000000,Cocody,https://images.coinafrique.com/thumb_5626189_uploaded_image1_1763388554.jpg,2017
+511,Kia Sportage 2024,Kia,Sportage 2024,26000000,Cocody,https://images.coinafrique.com/thumb_5626185_uploaded_image1_1763388403.jpg,2024
+512,Hyundai Santa fe 2018,Hyundai,Santa fe 2018,12000000,Cocody,https://images.coinafrique.com/thumb_5632096_uploaded_image1_1763648589.jpg,2018
+513,Suzuki  Vitara 2023,Suzuki,Vitara 2023,11500000,Cocody,https://images.coinafrique.com/thumb_5640451_uploaded_image1_1764082264.jpg,2023
+514,Hyundai  Tucson 2016,Hyundai,Tucson 2016,9800000,Abidjan,https://images.coinafrique.com/thumb_5644233_uploaded_image1_1764255456.jpg,2016
+515,Mazda CX-3  AWD 2016,Mazda,CX-3  AWD 2016,8950000,Abidjan,https://images.coinafrique.com/thumb_5644238_uploaded_image1_1764255603.jpg,2016
+516,Mitsubishi Pajero 2023,Mitsubishi,Pajero 2023,23999999,Cocody,https://images.coinafrique.com/thumb_5603106_uploaded_image1_1762174875.jpg,2023
+517,Jaguar E-pace P250s 2022,Jaguar,E-pace P250s 2022,34500000,Cocody,https://images.coinafrique.com/thumb_5628052_uploaded_image1_1763475361.jpg,2022
+518,Kia Sportage 2021,Kia,Sportage 2021,12300000,Cocody,https://images.coinafrique.com/thumb_5628048_uploaded_image1_1763475191.jpg,2021
+519,Toyota Hilux 2010,Toyota,Hilux 2010,7999000,Cocody,https://images.coinafrique.com/thumb_5603102_uploaded_image1_1762174759.jpg,2010
+520,Hyundai Starex H1 2016,Hyundai,Starex H1 2016,7500000,Abidjan,https://images.coinafrique.com/thumb_5644225_uploaded_image1_1764255313.jpg,2016
+521,Hyundai Starex  H1 2016,Hyundai,Starex  H1 2016,7500000,Abidjan,https://images.coinafrique.com/thumb_5644228_uploaded_image1_1764255377.jpg,2016
+522,Hyundai Tucson 2021,Hyundai,Tucson 2021,17000000,Cocody,https://images.coinafrique.com/thumb_5628033_uploaded_image1_1763474721.jpg,2021
+523,Jaguar F-pace R-dynamic  2022,Jaguar,F-pace R-dynamic  2022,48500000,Cocody,https://images.coinafrique.com/thumb_5628043_uploaded_image1_1763475006.jpg,2022
+524,Audi Q7 2008,Audi,Q7 2008,7000000,Cocody,https://images.coinafrique.com/thumb_5633757_uploaded_image1_1763734766.jpg,2008
+525,Hyundai Tucson n-line 2023,Hyundai,Tucson n-line 2023,22800000,Cocody,https://images.coinafrique.com/thumb_5626172_uploaded_image1_1763387922.jpg,2023
+526,Hyundai Tucson 2025,Hyundai,Tucson 2025,29400000,Abidjan,https://images.coinafrique.com/thumb_5635322_uploaded_image1_1763821647.jpg,2025
+527,Hyundai Tucson 2020,Hyundai,Tucson 2020,15500000,Cocody,https://images.coinafrique.com/thumb_5616298_uploaded_image1_1762867227.jpg,2020
+528,Renault QM6 2022,Renault,QM6 2022,15000000,Cocody,https://images.coinafrique.com/thumb_5628011_uploaded_image1_1763474139.jpg,2022
+529,Hyundai Sonata 2021,Hyundai,Sonata 2021,15000000,Cocody,https://images.coinafrique.com/thumb_5628005_uploaded_image1_1763473924.jpg,2021
+530,Abarth OT 2025,Abarth,OT 2025,22500000,Cocody,https://images.coinafrique.com/thumb_5603067_uploaded_image1_1762173494.jpg,2025
+531,Honda Civic 2016,Honda,Civic 2016,8800000,Abidjan,https://images.coinafrique.com/thumb_5603090_uploaded_image1_1762174426.jpg,2016
+532,Chevrolet Trailblazer 2022,Chevrolet,Trailblazer 2022,15300000,Cocody,https://images.coinafrique.com/thumb_5628027_uploaded_image1_1763474458.jpg,2022
+533,Renault  QM6  2021,Renault,QM6  2021,15000000,Cocody,https://images.coinafrique.com/thumb_5628016_uploaded_image1_1763474271.jpg,2021
+534,Land Rover Range Rover velar 2019,Land,Rover Range Rover velar 2019,33500000,Abidjan,https://images.coinafrique.com/thumb_5603077_uploaded_image1_1762173740.jpg,2019
+535,Mitsubishi  L200 2025,Mitsubishi,L200 2025,25800000,Abidjan,https://images.coinafrique.com/thumb_5603068_uploaded_image1_1762173565.jpg,2025
+536,Suzuki Dzire 2025,Suzuki,Dzire 2025,8400000,Cocody,https://images.coinafrique.com/thumb_5632055_uploaded_image1_1763647600.jpg,2025
+537,Hyundai Elantra 2020,Hyundai,Elantra 2020,10900000,Cocody,https://images.coinafrique.com/thumb_5632050_uploaded_image1_1763647445.jpg,2020
+538,Mercedes-benz GLE 63s amg 2017,Mercedes-benz,GLE 63s amg 2017,38000000,Abidjan,https://images.coinafrique.com/thumb_5606711_uploaded_image1_1762347134.jpg,2017
+539,Hyundai Santa fe 2018,Hyundai,Santa fe 2018,10800000,Abidjan,https://images.coinafrique.com/thumb_5632056_uploaded_image1_1763647616.jpg,2018
+540,Nissan Kicks 2021,Nissan,Kicks 2021,11500000,Cocody,https://images.coinafrique.com/thumb_5611906_uploaded_image1_1762607343.jpg,2021
+541,Suzuki Vitara 2022,Suzuki,Vitara 2022,10900000,Cocody,https://images.coinafrique.com/thumb_5638580_uploaded_image1_1763994191.jpg,2022
+542,Suzuki Alto 2019,Suzuki,Alto 2019,3000000,Cocody,https://images.coinafrique.com/thumb_5632123_uploaded_image1_1763649594.jpg,2019
+543,Hyundai Sonata 2021,Hyundai,Sonata 2021,15000000,Cocody,https://images.coinafrique.com/thumb_5627996_uploaded_image1_1763473748.jpg,2021
+544,Hyundai  Tucson 2025,Hyundai,Tucson 2025,29500000,Cocody,https://images.coinafrique.com/thumb_5640390_uploaded_image1_1764080516.jpg,2025
+545,Hyundai Tucson 2025,Hyundai,Tucson 2025,29000000,Abidjan,https://images.coinafrique.com/thumb_5632044_uploaded_image1_1763647214.jpg,2025
+546,Land Rover Defender 2024,Land,Rover Defender 2024,56000000,Cocody,https://images.coinafrique.com/thumb_5640398_uploaded_image1_1764080727.jpg,2024
+547,Hyundai Tucson 2025,Hyundai,Tucson 2025,25000000,Cocody,https://images.coinafrique.com/thumb_5603056_uploaded_image1_1762173331.jpg,2025
+548,Mercedes-Benz E240  2005,Mercedes-Benz,E240  2005,1800000,Cocody,https://images.coinafrique.com/thumb_5632114_uploaded_image1_1763649147.jpg,2005
+549,Hyundai Santa fe 2022,Hyundai,Santa fe 2022,19950000,Cocody,https://images.coinafrique.com/thumb_5627986_uploaded_image1_1763473515.jpg,2022
+550,Kia Sportage full options 2024,Kia,Sportage full options 2024,19500000,Cocody,https://images.coinafrique.com/thumb_5640371_uploaded_image1_1764079916.jpg,2024
+551,Hyundai Tucson 2006,Hyundai,Tucson 2006,6000000,Cocody,https://images.coinafrique.com/thumb_5614240_uploaded_image1_1762773812.jpg,2006
+552,Renault Duster 2017,Renault,Duster 2017,5500000,Cocody,https://images.coinafrique.com/thumb_5632103_uploaded_image1_1763648706.jpg,2017
+553,Toyota Hilux 2021,Toyota,Hilux 2021,32000000,Cocody,https://images.coinafrique.com/thumb_5616266_uploaded_image1_1762866347.jpg,2021
+554,Peugeot 3008 2023,Peugeot,3008 2023,17500000,Cocody,https://images.coinafrique.com/thumb_5645741_uploaded_image1_1764339863.jpg,2023
+555,Honda CR-V 2023,Honda,CR-V 2023,28800000,Cocody,https://images.coinafrique.com/thumb_5632005_uploaded_image1_1763646156.jpg,2023
+556,Lexus RX 350 2022,Lexus,RX 350 2022,26500000,Angré,https://images.coinafrique.com/thumb_5627979_uploaded_image1_1763473130.jpg,2022
+557,Mazda bt-50 2016,Mazda,bt-50 2016,5700000,Cocody,https://images.coinafrique.com/thumb_5620163_uploaded_image1_1763039225.jpg,2016
+558,Kia  Seltos 2021,Kia,Seltos 2021,15000000,Cocody,https://images.coinafrique.com/thumb_5627978_uploaded_image1_1763473058.jpg,2021
+559,Kia K3 2022,Kia,K3 2022,12900000,Cocody,https://images.coinafrique.com/thumb_5627982_uploaded_image1_1763473237.jpg,2022
+560,Land rover rover évoque  2020,Land,rover rover évoque  2020,23000000,Cocody,https://images.coinafrique.com/thumb_5620171_uploaded_image1_1763039565.jpg,2020
+561,Mazda CX5 2023,Mazda,CX5 2023,22500000,Abidjan,https://images.coinafrique.com/thumb_5603040_uploaded_image1_1762172767.jpg,2023
+562,Kia Forte 2020,Kia,Forte 2020,8800000,Abidjan,https://images.coinafrique.com/thumb_5603027_uploaded_image1_1762172483.jpg,2020
+563,Kia Seltos 2021,Kia,Seltos 2021,15000000,Cocody,https://images.coinafrique.com/thumb_5627976_uploaded_image1_1763472932.jpg,2021
+564,Toyota Rav4 2021,Toyota,Rav4 2021,23000000,Angré,https://images.coinafrique.com/thumb_5627966_uploaded_image1_1763472668.jpg,2021
+565,Audi Q5 2014,Audi,Q5 2014,9300000,Cocody,https://images.coinafrique.com/thumb_5632000_uploaded_image1_1763646042.jpg,2014
+566,Hyundai Tucson 2025,Hyundai,Tucson 2025,29300000,Abidjan,https://images.coinafrique.com/thumb_5642397_uploaded_image1_1764166198.jpg,2025
+567,Hyundai Elantra 2022,Hyundai,Elantra 2022,12950000,Cocody,https://images.coinafrique.com/thumb_5645729_uploaded_image1_1764339306.jpg,2022
+568,Hyundai Tucson 2022,Hyundai,Tucson 2022,17900000,Cocody,https://images.coinafrique.com/thumb_5645722_uploaded_image1_1764339091.jpg,2022
+569,Hyundai Sonata 2019,Hyundai,Sonata 2019,10800000,Cocody,https://images.coinafrique.com/thumb_5642390_uploaded_image1_1764165940.jpg,2019
+570,Hyundai Euro 1 2023,Hyundai,Euro 1 2023,14500000,Angré,https://images.coinafrique.com/thumb_5633706_uploaded_image1_1763732310.jpg,2023
+571,Hyundai Elantra 2020,Hyundai,Elantra 2020,10500000,Abidjan,https://images.coinafrique.com/thumb_5631983_uploaded_image1_1763645572.jpg,2020
+572,Toyota Picnic 2000,Toyota,Picnic 2000,4500000,Yopougon,https://images.coinafrique.com/thumb_5608619_uploaded_image1_1762431816.jpg,2000
+573,Renault  Duster 2019,Renault,Duster 2019,8500000,Cocody,https://images.coinafrique.com/thumb_5644167_uploaded_image1_1764252161.jpg,2019
+574,Toyota  Rav4  EV 2022,Toyota,Rav4  EV 2022,24000000,Cocody,https://images.coinafrique.com/thumb_5642378_uploaded_image1_1764165401.jpg,2022
+575,Hyundai  Tucson 2020,Hyundai,Tucson 2020,13900000,Cocody,https://images.coinafrique.com/thumb_5627947_uploaded_image1_1763472076.jpg,2020
+576,DKW  Coupe 2023,DKW,Coupe 2023,12800000,Angré,https://images.coinafrique.com/thumb_5627939_uploaded_image1_1763471845.jpg,2023
+577,Kia Sportage 2018,Kia,Sportage 2018,10800000,Cocody,https://images.coinafrique.com/thumb_5644152_uploaded_image1_1764251797.jpg,2018
+578,Kia Rio 2020,Kia,Rio 2020,7500000,Cocody,https://images.coinafrique.com/thumb_5626080_uploaded_image1_1763384922.jpg,2020
+579,Hyundai Santa fe 2022,Hyundai,Santa fe 2022,20800000,Cocody,https://images.coinafrique.com/thumb_5626086_uploaded_image1_1763385073.jpg,2022
+580,Nissan Patrol 2024,Nissan,Patrol 2024,67000000,Abidjan,https://images.coinafrique.com/thumb_5618256_uploaded_image1_1762951601.jpg,2024
+581,Suzuki Fronx 2025,Suzuki,Fronx 2025,13800000,Abidjan,https://images.coinafrique.com/thumb_5616209_uploaded_image1_1762864898.jpg,2025
+582,Hyundai Tucson 2021,Hyundai,Tucson 2021,14500000,Cocody,https://images.coinafrique.com/thumb_5626101_uploaded_image1_1763385341.jpg,2021
+583,Hyundai Tucson 2022,Hyundai,Tucson 2022,17900000,Cocody,https://images.coinafrique.com/thumb_5645709_uploaded_image1_1764338576.jpg,2022
+584,Hyundai Santa fe 2013,Hyundai,Santa fe 2013,7700000,Angré,https://images.coinafrique.com/thumb_5633695_uploaded_image1_1763731655.jpg,2013
+585,Nissan Patrol Platinium 2022,Nissan,Patrol Platinium 2022,43800000,Abidjan,https://images.coinafrique.com/thumb_5614371_uploaded_image1_1762778315.jpg,2022
+586,Hyundai  Tucson 2008,Hyundai,Tucson 2008,5700000,Cocody,https://images.coinafrique.com/thumb_5644156_uploaded_image1_1764251879.jpg,2008
+587,Renault  Duster 2021,Renault,Duster 2021,9500000,Cocody,https://images.coinafrique.com/thumb_5644161_uploaded_image1_1764251958.jpg,2021
+588,Hyundai  Elantra 2021,Hyundai,Elantra 2021,13500000,Cocody,https://images.coinafrique.com/thumb_5645717_uploaded_image1_1764338765.jpg,2021
+589,Toyota Highlander Platinium 2022,Toyota,Highlander Platinium 2022,28500000,Cocody,https://images.coinafrique.com/thumb_5601443_uploaded_image1_1762084651.jpg,2022
+590,Honda HR-V  2020,Honda,HR-V  2020,14000000,Cocody,https://images.coinafrique.com/thumb_5645704_uploaded_image1_1764338231.jpg,2020
+591,Kia Sportage 2021,Kia,Sportage 2021,13800000,Cocody,https://images.coinafrique.com/thumb_5644144_uploaded_image1_1764251617.jpg,2021
+592,Nissan Altima 2019,Nissan,Altima 2019,10900000,Angré,https://images.coinafrique.com/thumb_5627916_uploaded_image1_1763471020.jpg,2019
+593,Ford  Think 2010,Ford,Think 2010,4800000,Cocody,https://images.coinafrique.com/thumb_5631962_uploaded_image1_1763644371.jpg,2010
+594,Toyota Land Cruiser 2025,Toyota,Land Cruiser 2025,67500000,Abidjan,https://images.coinafrique.com/thumb_5640299_uploaded_image1_1764077789.jpg,2025
+595,Kia Sportage 2021,Kia,Sportage 2021,13950000,Abidjan,https://images.coinafrique.com/thumb_5635241_uploaded_image1_1763817802.jpg,2021
+596,Ford Fusion 2016,Ford,Fusion 2016,6500000,Cocody,https://images.coinafrique.com/thumb_5635238_uploaded_image1_1763817738.jpg,2016
+597,Kia  Sorento  2004,Kia,Sorento  2004,3950000,Cocody,https://images.coinafrique.com/thumb_5647133_uploaded_image1_1764424301.jpg,2004
+598,Hyundai Creta 2024,Hyundai,Creta 2024,16800000,Cocody,https://images.coinafrique.com/thumb_5629956_uploaded_image1_1763557327.jpg,2024
+599,Mercedes-benz C30 2018,Mercedes-benz,C30 2018,12500000,Cocody,https://images.coinafrique.com/thumb_5631956_uploaded_image1_1763644210.jpg,2018
+600,Acura Ilx 2020,Acura,Ilx 2020,10500000,Cocody,https://images.coinafrique.com/thumb_5647132_uploaded_image1_1764424299.jpg,2020
+601,Jeep Wrangler 2025,Jeep,Wrangler 2025,47000000,Angré,https://images.coinafrique.com/thumb_5627906_uploaded_image1_1763470799.jpg,2025
+602,Mercedes-benz GLC 43 2018,Mercedes-benz,GLC 43 2018,22800000,Abidjan,https://images.coinafrique.com/thumb_5638493_uploaded_image1_1763991017.jpg,2018
+603,Toyota 4 Runner 2017,Toyota,4 Runner 2017,24500000,Abidjan,https://images.coinafrique.com/thumb_5640285_uploaded_image1_1764077480.jpg,2017
+604,Suzuki  S-presso 2022,Suzuki,S-presso 2022,3500000,Cocody,https://images.coinafrique.com/thumb_5616150_uploaded_image1_1762863586.jpg,2022
+605,Kia Rio 2017,Kia,Rio 2017,6500000,Abidjan,https://images.coinafrique.com/thumb_5642339_uploaded_image1_1764163851.jpg,2017
+606,Hyundai Santa fe 2025,Hyundai,Santa fe 2025,43000000,Angré,https://images.coinafrique.com/thumb_5627883_uploaded_image1_1763470088.jpg,2025
+607,Hyundai Santa fe 2013,Hyundai,Santa fe 2013,8900000,Angré,https://images.coinafrique.com/thumb_5633658_uploaded_image1_1763730124.jpg,2013
+608,Range Rover Vogue P550e SE 2025,Range,Rover Vogue P550e SE 2025,124800000,Abidjan,https://images.coinafrique.com/thumb_5647125_uploaded_image1_1764423898.jpg,2025
+609,Honda CRV6 Sport 2024,Honda,CRV6 Sport 2024,34800000,Abidjan,https://images.coinafrique.com/thumb_5614334_uploaded_image1_1762776906.jpg,2024
+610,Kia Rio 2021,Kia,Rio 2021,8900000,Abidjan,https://images.coinafrique.com/thumb_5642324_uploaded_image1_1764163375.jpg,2021
+611,Nissan Patrol 2024,Nissan,Patrol 2024,67000000,Cocody,https://images.coinafrique.com/thumb_5618201_uploaded_image1_1762949498.jpg,2024
+612,Kia Sportage Xline 2025,Kia,Sportage Xline 2025,27500000,Cocody,https://images.coinafrique.com/thumb_5638466_uploaded_image1_1763989900.jpg,2025
+613,Mazda R360 2025,Mazda,R360 2025,33000000,Cocody,https://images.coinafrique.com/thumb_5631937_uploaded_image1_1763643315.jpg,2025
+614,Hyundai Elantra 2020,Hyundai,Elantra 2020,9800000,Cocody,https://images.coinafrique.com/thumb_5631928_uploaded_image1_1763643146.jpg,2020
+615,Jeep Wrangler 2022,Jeep,Wrangler 2022,32500000,Cocody,https://images.coinafrique.com/thumb_5645664_uploaded_image1_1764336720.jpg,2022
+616,GMC Sierra 2019,GMC,Sierra 2019,16500000,Cocody,https://images.coinafrique.com/thumb_5645669_uploaded_image1_1764336890.jpg,2019
+617,Mitsubishi L200 2024,Mitsubishi,L200 2024,16900000,Abidjan,https://images.coinafrique.com/thumb_5636668_uploaded_image1_1763902917.jpg,2024
+618,BMW X3 2022,BMW,X3 2022,17500000,Cocody,https://images.coinafrique.com/thumb_5645659_uploaded_image1_1764336537.jpg,2022
+619,Kia Forte 2020,Kia,Forte 2020,10800000,Cocody,https://images.coinafrique.com/thumb_5645655_uploaded_image1_1764336418.jpg,2020
+620,Kia Sportage 2023,Kia,Sportage 2023,20500000,Angré,https://images.coinafrique.com/thumb_5627857_uploaded_image1_1763469581.jpg,2023
+621,Mazda 3 2021,Mazda,3 2021,9800000,Cocody,https://images.coinafrique.com/thumb_5631910_uploaded_image1_1763642808.jpg,2021
+622,Jetour X70 2025,Jetour,X70 2025,35000000,Cocody,https://images.coinafrique.com/thumb_5631915_uploaded_image1_1763642901.jpg,2025
+623,Kia Optima 2019,Kia,Optima 2019,8900000,Cocody,https://images.coinafrique.com/thumb_5631902_uploaded_image1_1763642536.jpg,2019
+624,Toyota Land Cruiser 2015,Toyota,Land Cruiser 2015,25400000,Abidjan,https://images.coinafrique.com/thumb_5614315_uploaded_image1_1762776228.jpg,2015
+625,Toyota Land Cruiser 2015,Toyota,Land Cruiser 2015,25500000,Cocody,https://images.coinafrique.com/thumb_5614311_uploaded_image1_1762776111.jpg,2015
+626,Kia  Rio 2021,Kia,Rio 2021,8900000,Cocody,https://images.coinafrique.com/thumb_5645644_uploaded_image1_1764336043.jpg,2021
+627,Mitsubishi  L200 2024,Mitsubishi,L200 2024,17500000,Cocody,https://images.coinafrique.com/thumb_5631907_uploaded_image1_1763642751.jpg,2024
+628,Mitsubishi  L200 2018,Mitsubishi,L200 2018,13800000,Angré,https://images.coinafrique.com/thumb_5627828_uploaded_image1_1763469042.jpg,2018
+629,Hyundai  Santa fe 2022,Hyundai,Santa fe 2022,25800000,Angré,https://images.coinafrique.com/thumb_5635215_uploaded_image1_1763816174.jpg,2022
+630,Hyundai Tucson 2020,Hyundai,Tucson 2020,14500000,Angré,https://images.coinafrique.com/thumb_5627810_uploaded_image1_1763468611.jpg,2020
+631,Kia Optima 2019,Kia,Optima 2019,8900000,Abidjan,https://images.coinafrique.com/thumb_5631900_uploaded_image1_1763642261.jpg,2019
+632,Nissan Versa note 2021,Nissan,Versa note 2021,7950000,Cocody,https://images.coinafrique.com/thumb_5631891_uploaded_image1_1763641879.jpg,2021
+633,Honda Civic 2020,Honda,Civic 2020,8800000,Cocody,https://images.coinafrique.com/thumb_5631894_uploaded_image1_1763642011.jpg,2020
+634,Hyundai Santa fe 2016,Hyundai,Santa fe 2016,9500000,Cocody,https://images.coinafrique.com/thumb_5631899_uploaded_image1_1763642192.jpg,2016
+635,Toyota Hilux 2021,Toyota,Hilux 2021,32000000,Cocody,https://images.coinafrique.com/thumb_5631886_uploaded_image1_1763641750.jpg,2021
+636,Hyundai Tucson 2020,Hyundai,Tucson 2020,14300000,Angré,https://images.coinafrique.com/thumb_5627797_uploaded_image1_1763468338.jpg,2020
+637,Haval Jolion 2024,Haval,Jolion 2024,16800000,Cocody,https://images.coinafrique.com/thumb_5629889_uploaded_image1_1763555132.jpg,2024
+638,Infiniti  QX80 2015,Infiniti,QX80 2015,30000000,Yopougon,https://images.coinafrique.com/thumb_5633576_uploaded_image1_1763728132.jpg,2015
+639,Toyota Hi-ace 2018,Toyota,Hi-ace 2018,24500000,Angré,https://images.coinafrique.com/thumb_5627781_uploaded_image1_1763467938.jpg,2018
+640,Kia  Forte 2022,Kia,Forte 2022,8900000,Cocody,https://images.coinafrique.com/thumb_5642255_uploaded_image1_1764161183.jpg,2022
+641,Toyota Corolla 2015,Toyota,Corolla 2015,6500000,Cocody,https://images.coinafrique.com/thumb_5610263_uploaded_image1_1762513890.jpg,2015
+642,Mercedes-benz GLC 2021,Mercedes-benz,GLC 2021,28000000,Abidjan,https://images.coinafrique.com/thumb_5618119_uploaded_image1_1762947442.jpg,2021
+643,Ford  Focus  2003,Ford,Focus  2003,2650000,Cocody,https://images.coinafrique.com/thumb_5644027_uploaded_image1_1764247712.jpg,2003
+644,Audi Q5 2014,Audi,Q5 2014,9300000,Abidjan,https://images.coinafrique.com/thumb_5631859_uploaded_image1_1763640888.jpg,2014
+645,Renault Sandero 2014,Renault,Sandero 2014,3200000,Yopougon,https://images.coinafrique.com/thumb_5633556_uploaded_image1_1763727580.jpg,2014
+646,Mercedes-benz ML 350 2006,Mercedes-benz,ML 350 2006,5500000,Yopougon,https://images.coinafrique.com/thumb_5614238_uploaded_image1_1762773787.jpg,2006
+647,BMW X3 2017,BMW,X3 2017,10900000,Cocody,https://images.coinafrique.com/thumb_5644026_uploaded_image1_1764247684.jpg,2017
+648,Honda CRV-5 touring  2022,Honda,CRV-5 touring  2022,22000000,Cocody,https://images.coinafrique.com/thumb_5631854_uploaded_image1_1763640835.jpg,2022
+649,Suzuki Vitara 2023,Suzuki,Vitara 2023,11500000,Cocody,https://images.coinafrique.com/thumb_5604749_uploaded_image1_1762253323.jpg,2023
+650,Peugeot 4008 2017,Peugeot,4008 2017,5800000,Cocody,https://images.coinafrique.com/thumb_5635164_uploaded_image1_1763813957.jpg,2017
+651,Mitsubishi Outlander Sport 2017,Mitsubishi,Outlander Sport 2017,8500000,Cocody,https://images.coinafrique.com/thumb_5642234_uploaded_image1_1764160661.jpg,2017
+652,Toyota Fortuner 2016,Toyota,Fortuner 2016,10900000,Cocody,https://images.coinafrique.com/thumb_5644022_uploaded_image1_1764247502.jpg,2016
+653,Kia Sportage 2014,Kia,Sportage 2014,7800000,Yopougon,https://images.coinafrique.com/thumb_5604757_uploaded_image1_1762253560.jpg,2014
+654,Toyota Matrix 2010,Toyota,Matrix 2010,4900000,Yopougon,https://images.coinafrique.com/thumb_5604745_uploaded_image1_1762253209.jpg,2010
+655,Hyundai Elantra 2016,Hyundai,Elantra 2016,6300000,Cocody,https://images.coinafrique.com/thumb_5642224_uploaded_image1_1764160561.jpg,2016
+656,Toyota Corolla 2016,Toyota,Corolla 2016,6300000,Cocody,https://images.coinafrique.com/thumb_5621676_uploaded_image1_1763119889.jpg,2016
+657,Toyota Rav4 2020,Toyota,Rav4 2020,15500000,Yopougon,https://images.coinafrique.com/thumb_5614234_uploaded_image1_1762773371.jpg,2020
+658,Citroen C4 2013,Citroen,C4 2013,6800000,Cocody,https://images.coinafrique.com/thumb_5623194_uploaded_image1_1763206437.jpg,2013
+659,Toyota CHR  2019,Toyota,CHR  2019,10000000,Angré,https://images.coinafrique.com/thumb_5638316_uploaded_image1_1763986621.jpg,2019
+660,Hyundai Santa fe 2021,Hyundai,Santa fe 2021,15500000,Angré,https://images.coinafrique.com/thumb_5633525_uploaded_image1_1763726653.jpg,2021
+661,Toyota 4 Runner 2016,Toyota,4 Runner 2016,11800000,Abidjan,https://images.coinafrique.com/thumb_5635154_uploaded_image1_1763813192.jpg,2016
+662,Hyundai Tucson 2025,Hyundai,Tucson 2025,29300000,Abidjan,https://images.coinafrique.com/thumb_5640186_uploaded_image1_1764073466.jpg,2025
+663,Hyundai Tucson grand écran 2006,Hyundai,Tucson grand écran 2006,5800000,Cocody,https://images.coinafrique.com/thumb_5640187_uploaded_image1_1764073471.jpg,2006
+664,Kia Pégase  2023,Kia,Pégase  2023,8900000,Cocody,https://images.coinafrique.com/thumb_5602831_uploaded_image1_1762165958.jpg,2023
+665,BMW 528 2016,BMW,528 2016,9800000,Yopougon,https://images.coinafrique.com/thumb_5633531_uploaded_image1_1763726740.jpg,2016
+666,Hyundai Kona 2022,Hyundai,Kona 2022,14500000,Cocody,https://images.coinafrique.com/thumb_5640202_uploaded_image1_1764074256.jpg,2022
+667,Hyundai Tucson Htrac  2023,Hyundai,Tucson Htrac  2023,23000000,Cocody,https://images.coinafrique.com/thumb_5631810_uploaded_image1_1763639333.jpg,2023
+668,Mercedes C200  2003,Mercedes,C200  2003,2350000,Cocody,https://images.coinafrique.com/thumb_5642175_uploaded_image1_1764159495.jpg,2003
+669,Kia sorento 2014,Kia,sorento 2014,7800000,Cocody,https://images.coinafrique.com/thumb_5619931_uploaded_image1_1763032539.jpg,2014
+670,Mercedes-benz E350 2024,Mercedes-benz,E350 2024,73000000,Cocody,https://images.coinafrique.com/thumb_5614217_uploaded_image1_1762772766.jpg,2024
+671,Hyundai  Tucson 2020,Hyundai,Tucson 2020,13900000,Abidjan,https://images.coinafrique.com/thumb_5631815_uploaded_image1_1763639468.jpg,2020
+672,Hyundai Tucson 2021,Hyundai,Tucson 2021,16900000,Abidjan,https://images.coinafrique.com/thumb_5631802_uploaded_image1_1763639231.jpg,2021
+673,Ford Expedition 2022,Ford,Expedition 2022,48000000,Cocody,https://images.coinafrique.com/thumb_5627692_uploaded_image1_1763466073.jpg,2022
+674,BMW X6 2021,BMW,X6 2021,32900000,Cocody,https://images.coinafrique.com/thumb_5615975_uploaded_image1_1762859143.jpg,2021
+675,Kia Sportage 2021,Kia,Sportage 2021,17600000,Cocody,https://images.coinafrique.com/thumb_5631789_uploaded_image1_1763638947.jpg,2021
+676,Hyundai Tucson 2020,Hyundai,Tucson 2020,14800000,Cocody,https://images.coinafrique.com/thumb_5625892_uploaded_image1_1763378796.jpg,2020
+677,Nissan Patrol Platinium 2022,Nissan,Patrol Platinium 2022,43800000,Abidjan,https://images.coinafrique.com/thumb_5621654_uploaded_image1_1763118967.jpg,2022
+678,Toyota Land Cruiser 2014,Toyota,Land Cruiser 2014,14900000,Cocody,https://images.coinafrique.com/thumb_5627671_uploaded_image1_1763465660.jpg,2014
+679,Nissan Sports 2022,Nissan,Sports 2022,10800000,Angré,https://images.coinafrique.com/thumb_5627668_uploaded_image1_1763465619.jpg,2022
+680,Mercedes-benz 204 2013,Mercedes-benz,204 2013,7800000,Abidjan,https://images.coinafrique.com/thumb_5629795_uploaded_image1_1763551948.jpg,2013
+681,Toyota Land Cruiser 2016,Toyota,Land Cruiser 2016,25000000,Abidjan,https://images.coinafrique.com/thumb_5631783_uploaded_image1_1763638733.jpg,2016
+682,Honda CR-V black édition  2021,Honda,CR-V black édition  2021,15500000,Cocody,https://images.coinafrique.com/thumb_5631777_uploaded_image1_1763638640.jpg,2021
+683,Land Rover Range Rover Evoque 2021,Land,Rover Range Rover Evoque 2021,18000000,Abidjan,https://images.coinafrique.com/thumb_5606327_uploaded_image1_1762338170.jpg,2021
+684,Nissan Altima 2015,Nissan,Altima 2015,4900000,Cocody,https://images.coinafrique.com/thumb_5604690_uploaded_image1_1762251826.jpg,2015
+685,Land Rover Range Rover Velar 2020,Land,Rover Range Rover Velar 2020,20000000,Abidjan,https://images.coinafrique.com/thumb_5631796_uploaded_image1_1763639119.jpg,2020
+686,Kia Sorento 2018,Kia,Sorento 2018,10900000,Cocody,https://images.coinafrique.com/thumb_5627655_uploaded_image1_1763465470.jpg,2018
+687,Toyota  Prado 2017,Toyota,Prado 2017,16800000,Abidjan,https://images.coinafrique.com/thumb_5631790_uploaded_image1_1763638947.jpg,2017
+688,Cadillac Escalade 2017,Cadillac,Escalade 2017,23900000,Cocody,https://images.coinafrique.com/thumb_5615948_uploaded_image1_1762858353.jpg,2017
+689,Haval Jolion  2025,Haval,Jolion  2025,16800000,Cocody,https://images.coinafrique.com/thumb_5623146_uploaded_image1_1763204802.jpg,2025
+690,Kia Sportage 2021,Kia,Sportage 2021,15500000,Cocody,https://images.coinafrique.com/thumb_5631762_uploaded_image1_1763638359.jpg,2021
+691,Ford Focus 2016,Ford,Focus 2016,5800000,Cocody,https://images.coinafrique.com/thumb_5638308_uploaded_image1_1763986487.jpg,2016
+692,Mitsubishi Outlander 2020,Mitsubishi,Outlander 2020,18000000,Cocody,https://images.coinafrique.com/thumb_5638269_uploaded_image1_1763985284.jpg,2020
+693,Suzuki Vitara 2020,Suzuki,Vitara 2020,10950000,Cocody,https://images.coinafrique.com/thumb_5618007_uploaded_image1_1762944747.jpg,2020
+694,Renault Master fourgon 2003,Renault,Master fourgon 2003,5500000,Cocody,https://images.coinafrique.com/thumb_5643957_uploaded_image1_1764245156.jpg,2003
+695,Hyundai Tucson 2019,Hyundai,Tucson 2019,10400000,Angré,https://images.coinafrique.com/thumb_5627598_uploaded_image1_1763464526.jpg,2019
+696,Toyota Rav4 2016,Toyota,Rav4 2016,9900000,Angré,https://images.coinafrique.com/thumb_5627606_uploaded_image1_1763464692.jpg,2016
+697,Renault Logan 2016,Renault,Logan 2016,2900000,Cocody,https://images.coinafrique.com/thumb_5627597_uploaded_image1_1763464496.jpg,2016
+698,Renault Dokker 2016,Renault,Dokker 2016,4400000,Cocody,https://images.coinafrique.com/thumb_5627615_uploaded_image1_1763464837.jpg,2016
+699,Hyundai Getz 2016,Hyundai,Getz 2016,9800000,Angré,https://images.coinafrique.com/thumb_5627593_uploaded_image1_1763464385.jpg,2016
+700,Hyundai Panel Van 2017,Hyundai,Panel Van 2017,7500000,Cocody,https://images.coinafrique.com/thumb_5621637_uploaded_image1_1763117800.jpg,2017
+701,BMW X5 2022,BMW,X5 2022,49000000,Cocody,https://images.coinafrique.com/thumb_5623131_uploaded_image1_1763204454.jpg,2022
+702,Mercedes-benz CLK 2003,Mercedes-benz,CLK 2003,3500000,Angré,https://images.coinafrique.com/thumb_5627614_uploaded_image1_1763464837.jpg,2003
+703,Mercedes-benz GLC 300 2019,Mercedes-benz,GLC 300 2019,12500000,Angré,https://images.coinafrique.com/thumb_5633456_uploaded_image1_1763724855.jpg,2019
+704,Mitsubishi Montero Sport  2017,Mitsubishi,Montero Sport  2017,16500000,Cocody,https://images.coinafrique.com/thumb_5610166_uploaded_image1_1762510787.jpg,2017
+705,Nissan Kickis 2018,Nissan,Kickis 2018,5900000,Cocody,https://images.coinafrique.com/thumb_5625856_uploaded_image1_1763377789.jpg,2018
+706,Mazda CX-5 2025,Mazda,CX-5 2025,23000000,Cocody,https://images.coinafrique.com/thumb_5615932_uploaded_image1_1762857948.jpg,2025
+707,Renault Koleos 2021,Renault,Koleos 2021,15000000,Cocody,https://images.coinafrique.com/thumb_5610172_uploaded_image1_1762510960.jpg,2021
+708,Jeep Grand Cherokee Srt 2019,Jeep,Grand Cherokee Srt 2019,28900000,Angré,https://images.coinafrique.com/thumb_5627582_uploaded_image1_1763464137.jpg,2019
+709,AC Haval Jolion 2024,AC,Haval Jolion 2024,16800000,Abidjan,https://images.coinafrique.com/thumb_5629752_uploaded_image1_1763550983.jpg,2024
+710,Mercedes-benz E300 2013,Mercedes-benz,E300 2013,10500000,Angré,https://images.coinafrique.com/thumb_5633437_uploaded_image1_1763724259.jpg,2013
+711,Kia Rio 2013,Kia,Rio 2013,5300000,Angré,https://images.coinafrique.com/thumb_5629742_uploaded_image1_1763550756.jpg,2013
+712,Jeep Wrangler 2022,Jeep,Wrangler 2022,35000000,Angré,https://images.coinafrique.com/thumb_5627575_uploaded_image1_1763463969.jpg,2022
+713,Hyundai Tucson 2023,Hyundai,Tucson 2023,17950000,Cocody,https://images.coinafrique.com/thumb_5635094_uploaded_image1_1763810537.jpg,2023
+714,Kia Sportage  2018,Kia,Sportage  2018,8800000,Cocody,https://images.coinafrique.com/thumb_5638262_uploaded_image1_1763985081.jpg,2018
+715,Maserati Levente 2017,Maserati,Levente 2017,30000000,Cocody,https://images.coinafrique.com/thumb_5636540_uploaded_image1_1763897190.jpg,2017
+716,Toyota Rav4 2019,Toyota,Rav4 2019,18500000,Angré,https://images.coinafrique.com/thumb_5633426_uploaded_image1_1763723855.jpg,2019
+717,Kia Sportage 2018,Kia,Sportage 2018,12500000,Angré,https://images.coinafrique.com/thumb_5633430_uploaded_image1_1763724041.jpg,2018
+718,BMW X3 2023,BMW,X3 2023,25900000,Angré,https://images.coinafrique.com/thumb_5627562_uploaded_image1_1763463537.jpg,2023
+719,Peugeot 308  2012,Peugeot,308  2012,2950000,Cocody,https://images.coinafrique.com/thumb_5635090_uploaded_image1_1763810305.jpg,2012
+720,KIA Sportage  2018,KIA,Sportage  2018,8800000,Cocody,https://images.coinafrique.com/thumb_5638261_uploaded_image1_1763985076.jpg,2018
+721,Kia Sportage  2018,Kia,Sportage  2018,8800000,Cocody,https://images.coinafrique.com/thumb_5638251_uploaded_image1_1763984880.jpg,2018
+722,KIA Sportage 2012,KIA,Sportage 2012,8000000,Abidjan,https://images.coinafrique.com/thumb_5629410_uploaded_image1_1763539533.jpg,2012
+723,Honda civic 2018,Honda,civic 2018,6800000,Abidjan,https://images.coinafrique.com/thumb_5629409_uploaded_image1_1763539434.jpg,2018
+724,Hyundai Santa fe 2020,Hyundai,Santa fe 2020,15800000,Angré,https://images.coinafrique.com/thumb_5627559_uploaded_image1_1763463351.jpg,2020
+725,Hyundai Santa Fe 2022,Hyundai,Santa Fe 2022,25800000,Angré,https://images.coinafrique.com/thumb_5635085_uploaded_image1_1763809922.jpg,2022
+726,Mazda CX-5 2021,Mazda,CX-5 2021,14300000,Abidjan,https://images.coinafrique.com/thumb_5621924_uploaded_image1_1763131487.jpg,2021
+727,Kia Sportage 2024,Kia,Sportage 2024,21800000,Cocody,https://images.coinafrique.com/thumb_5635087_uploaded_image1_1763810152.jpg,2024
+728,Ford Focus  2003,Ford,Focus  2003,3600000,Abidjan,https://images.coinafrique.com/thumb_5612470_uploaded_image1_1762654170.jpg,2003
+729,Kia Sportage 2021,Kia,Sportage 2021,16000000,Abidjan,https://images.coinafrique.com/thumb_5620399_uploaded_image1_1763047610.jpg,2021
+730,Kia optima 2016,Kia,optima 2016,6800000,Abidjan,https://images.coinafrique.com/thumb_5628686_uploaded_image1_1763499126.jpg,2016
+731,Hyundai Avente 2019,Hyundai,Avente 2019,7950000,Cocody,https://images.coinafrique.com/thumb_5642074_uploaded_image1_1764156658.jpg,2019
+732,Kia Ray 2020,Kia,Ray 2020,6800000,Cocody,https://images.coinafrique.com/thumb_5629690_uploaded_image1_1763549697.jpg,2020
+733,Mercedes-benz G-550  2025,Mercedes-benz,G-550  2025,129800000,Abidjan,https://images.coinafrique.com/thumb_5625812_uploaded_image1_1763376148.jpg,2025
+734,BMW X5 2023,BMW,X5 2023,35800000,Cocody,https://images.coinafrique.com/thumb_5599836_uploaded_image1_1761989060.jpg,2023
+735,Toyota  Rav4 2022,Toyota,Rav4 2022,25000000,Cocody,https://images.coinafrique.com/thumb_5643902_uploaded_image1_1764243015.jpg,2022
+736,Peugeot 3008 2023,Peugeot,3008 2023,19500000,Cocody,https://images.coinafrique.com/thumb_5643890_uploaded_image1_1764242785.jpg,2023
+737,Mitsubishi Pajero Sport  2017,Mitsubishi,Pajero Sport  2017,16500000,Abidjan,https://images.coinafrique.com/thumb_5603175_uploaded_image1_1762177100.jpg,2017
+738,Hyundai Santa fe 2015,Hyundai,Santa fe 2015,8300000,Abidjan,https://images.coinafrique.com/thumb_5612467_uploaded_image1_1762653889.jpg,2015
+739,Audi A6 2013,Audi,A6 2013,8900000,Cocody,https://images.coinafrique.com/thumb_5629693_uploaded_image1_1763549757.jpg,2013
+740,Mitsubishi Eclipse 2019,Mitsubishi,Eclipse 2019,13500000,Cocody,https://images.coinafrique.com/thumb_5610100_uploaded_image1_1762508810.jpg,2019
+741,Hyundai Santa fe 2024,Hyundai,Santa fe 2024,17500000,Angré,https://images.coinafrique.com/thumb_5627533_uploaded_image1_1763462656.jpg,2024
+742,Hyundai Santa fe 2020,Hyundai,Santa fe 2020,19500000,Angré,https://images.coinafrique.com/thumb_5627542_uploaded_image1_1763462838.jpg,2020
+743,Land Rover Defender 110 s 2025,Land,Rover Defender 110 s 2025,55800000,Abidjan,https://images.coinafrique.com/thumb_5640067_uploaded_image1_1764069282.jpg,2025
+744,Peugeot 308  2012,Peugeot,308  2012,2950000,Cocody,https://images.coinafrique.com/thumb_5633373_uploaded_image1_1763722382.jpg,2012
+745,Toyota Land Cruiser 2019,Toyota,Land Cruiser 2019,22000000,Cocody,https://images.coinafrique.com/thumb_5633378_uploaded_image1_1763722465.jpg,2019
+746,Mercedes-benz glc 43 2022,Mercedes-benz,glc 43 2022,35000000,Abidjan,https://images.coinafrique.com/thumb_5609484_uploaded_image1_1762469273.jpg,2022
+747,Toyota corolla 2025,Toyota,corolla 2025,22800000,Cocody,https://images.coinafrique.com/thumb_5643885_uploaded_image1_1764242666.jpg,2025
+748,Haval Jolion 2025,Haval,Jolion 2025,16900000,Abidjan,https://images.coinafrique.com/thumb_5633735_uploaded_image1_1763733709.jpg,2025
+749,Kia seltos 2021,Kia,seltos 2021,13200000,Abidjan,https://images.coinafrique.com/thumb_5620395_uploaded_image1_1763047332.jpg,2021
+750,Kia Ray 2020,Kia,Ray 2020,6900000,Angré,https://images.coinafrique.com/thumb_5629653_uploaded_image1_1763549001.jpg,2020
+751,Mazda BT-50 2019,Mazda,BT-50 2019,8800000,Angré,https://images.coinafrique.com/thumb_5627525_uploaded_image1_1763462311.jpg,2019
+752,Ford Focus 2000,Ford,Focus 2000,2750000,Cocody,https://images.coinafrique.com/thumb_5638222_uploaded_image1_1763983790.jpg,2000
+753,Nissan Patrol SE  Platinum 2025,Nissan,Patrol SE  Platinum 2025,119800000,Abidjan,https://images.coinafrique.com/thumb_5615854_uploaded_image1_1762855311.jpg,2025
+754,Nissan Patrol SE Platinum 2025,Nissan,Patrol SE Platinum 2025,119800000,Abidjan,https://images.coinafrique.com/thumb_5615852_uploaded_image1_1762855198.jpg,2025
+755,Mitsubishi Lancer 2015,Mitsubishi,Lancer 2015,4800000,Cocody,https://images.coinafrique.com/thumb_5604547_uploaded_image1_1762248055.jpg,2015
+756,Mitsubishi outlander 2024,Mitsubishi,outlander 2024,22800000,Abidjan,https://images.coinafrique.com/thumb_5609470_uploaded_image1_1762468683.jpg,2024
+757,Toyota Highlander XLE AWD 2018,Toyota,Highlander XLE AWD 2018,17500000,Angré,https://images.coinafrique.com/thumb_5624436_uploaded_image1_1763292647.jpg,2018
+758,Acura integra 2025,Acura,integra 2025,20000000,Abidjan,https://images.coinafrique.com/thumb_5609476_uploaded_image1_1762468988.jpg,2025
+759,Peugeot 3008 2018,Peugeot,3008 2018,8800000,Cocody,https://images.coinafrique.com/thumb_5604551_uploaded_image1_1762248223.jpg,2018
+760,Suzuki Spresso  2024,Suzuki,Spresso  2024,5800000,Cocody,https://images.coinafrique.com/thumb_5627581_uploaded_image1_1763464137.jpg,2024
+761,Mitsubishi Colt 2000,Mitsubishi,Colt 2000,2500000,Cocody,https://images.coinafrique.com/thumb_5638215_uploaded_image1_1763983268.jpg,2000
+762,Mazda CX-5 2016,Mazda,CX-5 2016,8950000,Cocody,https://images.coinafrique.com/thumb_5623047_uploaded_image1_1763201497.jpg,2016
+763,Hyundai Santa Fe 2018,Hyundai,Santa Fe 2018,10800000,Cocody,https://images.coinafrique.com/thumb_5611654_uploaded_image1_1762594699.jpg,2018
+764,Toyota Land Cruiser GX-R  2021,Toyota,Land Cruiser GX-R  2021,42000000,Abidjan,https://images.coinafrique.com/thumb_5631926_uploaded_image1_1763643130.jpg,2021
+765,Hyundai palissade 2023,Hyundai,palissade 2023,26000000,Abidjan,https://images.coinafrique.com/thumb_5620491_uploaded_image1_1763050905.jpg,2023
+766,Kia Sportage 2021,Kia,Sportage 2021,16500000,Cocody,https://images.coinafrique.com/thumb_5611659_uploaded_image1_1762594814.jpg,2021
+767,Ford Explorer 2021,Ford,Explorer 2021,27800000,Abidjan,https://images.coinafrique.com/thumb_5604553_uploaded_image1_1762248286.jpg,2021
+768,Hyundai Creta 2023,Hyundai,Creta 2023,14500000,Abidjan,https://images.coinafrique.com/thumb_5636287_uploaded_image1_1763888222.jpg,2023
+769,Nissan Kicks 2021,Nissan,Kicks 2021,9800000,Abidjan,https://images.coinafrique.com/thumb_5636314_uploaded_image1_1763888715.jpg,2021
+770,Hyundai Santa fe 2022,Hyundai,Santa fe 2022,20800000,Angré,https://images.coinafrique.com/thumb_5627500_uploaded_image1_1763461704.jpg,2022
+771,Hyundai  Tucson 2020,Hyundai,Tucson 2020,13900000,Angré,https://images.coinafrique.com/thumb_5627519_uploaded_image1_1763462062.jpg,2020
+772,Nissan Kicks  2018,Nissan,Kicks  2018,5900000,Abidjan,https://images.coinafrique.com/thumb_5627848_uploaded_image1_1763469409.jpg,2018
+773,Kia Sorento 2016,Kia,Sorento 2016,10600000,Abidjan,https://images.coinafrique.com/thumb_5627859_uploaded_image1_1763469598.jpg,2016
+774,AUDI Q5 2009,AUDI,Q5 2009,4900000,Cocody,https://images.coinafrique.com/thumb_5602857_uploaded_image1_1762166481.jpg,2009
+775,Land Rover Range Rover sport 2022,Land,Rover Range Rover sport 2022,28000000,Abidjan,https://images.coinafrique.com/thumb_5627834_uploaded_image1_1763469177.jpg,2022
+776,Peugeot 3008 2022,Peugeot,3008 2022,14500000,Cocody,https://images.coinafrique.com/thumb_5642001_uploaded_image1_1764155012.jpg,2022
+777,Suzuki Fronx  2025,Suzuki,Fronx  2025,13700000,Abidjan,https://images.coinafrique.com/thumb_5627840_uploaded_image1_1763469288.jpg,2025
+778,Mitsubishi Pajero 2015,Mitsubishi,Pajero 2015,13800000,Abidjan,https://images.coinafrique.com/thumb_5620474_uploaded_image1_1763050394.jpg,2015
+779,Nissan Qashqai 2019,Nissan,Qashqai 2019,11800000,Abidjan,https://images.coinafrique.com/thumb_5620469_uploaded_image1_1763050282.jpg,2019
+780,Toyota Rav4 2016,Toyota,Rav4 2016,11800000,Abidjan,https://images.coinafrique.com/thumb_5620485_uploaded_image1_1763050759.jpg,2016
+781,Jeep wrangler 2025,Jeep,wrangler 2025,43000000,Abidjan,https://images.coinafrique.com/thumb_5620483_uploaded_image1_1763050643.jpg,2025
+782,HYUNDAI Creta 2016,HYUNDAI,Creta 2016,9800000,Abidjan,https://images.coinafrique.com/thumb_5620462_uploaded_image1_1763050127.jpg,2016
+783,Hyundai tucson htrac  2020,Hyundai,tucson htrac  2020,14000000,Abidjan,https://images.coinafrique.com/thumb_5614940_uploaded_image1_1762800849.jpg,2020
+784,Hyundai Kona 2023,Hyundai,Kona 2023,14500000,Cocody,https://images.coinafrique.com/thumb_5611646_uploaded_image1_1762594555.jpg,2023
+785,Nissan Kicks 2020,Nissan,Kicks 2020,6850000,Cocody,https://images.coinafrique.com/thumb_5633356_uploaded_image1_1763721475.jpg,2020
+786,BMW X1 2025,BMW,X1 2025,35000000,Cocody,https://images.coinafrique.com/thumb_5633352_uploaded_image1_1763721391.jpg,2025
+787,Hyundai  Tucson 2021,Hyundai,Tucson 2021,17500000,Angré,https://images.coinafrique.com/thumb_5627491_uploaded_image1_1763461520.jpg,2021
+788,Suzuki Grand Vitara 2025,Suzuki,Grand Vitara 2025,15700000,Angré,https://images.coinafrique.com/thumb_5629599_uploaded_image1_1763547931.jpg,2025
+789,Mercedes-benz G63 2017,Mercedes-benz,G63 2017,47000000,Abidjan,https://images.coinafrique.com/thumb_5627817_uploaded_image1_1763468802.jpg,2017
+790,Suzuki  Dzire 2024,Suzuki,Dzire 2024,6000000,Cocody,https://images.coinafrique.com/thumb_5627560_uploaded_image1_1763463419.jpg,2024
+791,Jaguar F Pace 2020,Jaguar,F Pace 2020,23800000,Abidjan,https://images.coinafrique.com/thumb_5625750_uploaded_image1_1763374874.jpg,2020
+792,Hyundai Tucson 2021,Hyundai,Tucson 2021,10800000,Cocody,https://images.coinafrique.com/thumb_5638193_uploaded_image1_1763982428.jpg,2021
+793,Honda CR-V 4 2016,Honda,CR-V 4 2016,9650000,Abidjan,https://images.coinafrique.com/thumb_5627829_uploaded_image1_1763469059.jpg,2016
+794,Kia Soul 2012,Kia,Soul 2012,5500000,Abidjan,https://images.coinafrique.com/thumb_5635802_uploaded_image1_1763848305.jpg,2012
+795,Toyota Highlander 2018,Toyota,Highlander 2018,17500000,Angré,https://images.coinafrique.com/thumb_5627477_uploaded_image1_1763461122.jpg,2018
+796,Hyundai Tucson 2017,Hyundai,Tucson 2017,9500000,Abidjan,https://images.coinafrique.com/thumb_5627822_uploaded_image1_1763468918.jpg,2017
+797,Mercedes-benz G63 2017,Mercedes-benz,G63 2017,47000000,Abidjan,https://images.coinafrique.com/thumb_5627820_uploaded_image1_1763468868.jpg,2017
+798,Mercedes-benz 300 2023,Mercedes-benz,300 2023,33000000,Angré,https://images.coinafrique.com/thumb_5627482_uploaded_image1_1763461314.jpg,2023
+799,Toyota Fortuner 2021,Toyota,Fortuner 2021,33000000,Cocody,https://images.coinafrique.com/thumb_5623044_uploaded_image1_1763201263.jpg,2021
+800,Mercedes-Benz GLC  300 2017,Mercedes-Benz,GLC  300 2017,16000000,Abidjan,https://images.coinafrique.com/thumb_5636273_uploaded_image1_1763887895.jpg,2017
+801,Peugeot 2008 by cfao  2022,Peugeot,2008 by cfao  2022,12800000,Abidjan,https://images.coinafrique.com/thumb_5636268_uploaded_image1_1763887780.jpg,2022
+802,Peugeot 3008 2024,Peugeot,3008 2024,16000000,Cocody,https://images.coinafrique.com/thumb_5624349_uploaded_image1_1763287864.jpg,2024
+803,Hyundai Tucson 2021,Hyundai,Tucson 2021,10800000,Cocody,https://images.coinafrique.com/thumb_5638191_uploaded_image1_1763982370.jpg,2021
+804,Peugeot 3008 2024,Peugeot,3008 2024,16000000,Angré,https://images.coinafrique.com/thumb_5627471_uploaded_image1_1763460904.jpg,2024
+805,Toyota Land Cruser VXR 2025,Toyota,Land Cruser VXR 2025,88000000,Abidjan,https://images.coinafrique.com/thumb_5631058_uploaded_image1_1763605853.jpg,2025
+806,Hyundai Santa Fe 2020,Hyundai,Santa Fe 2020,13900000,Abidjan,https://images.coinafrique.com/thumb_5631056_uploaded_image1_1763605669.jpg,2020
+807,Toyota rav4 tdr off road 2020,Toyota,rav4 tdr off road 2020,22500000,Abidjan,https://images.coinafrique.com/thumb_5620453_uploaded_image1_1763049960.jpg,2020
+808,Toyota Rav4 TDR off road 2020,Toyota,Rav4 TDR off road 2020,22500000,Abidjan,https://images.coinafrique.com/thumb_5620446_uploaded_image1_1763049752.jpg,2020
+809,Peugeot 406 2000,Peugeot,406 2000,2500000,Cocody,https://images.coinafrique.com/thumb_5632930_uploaded_image1_1763704586.jpg,2000
+810,Suzuki dzire 2025,Suzuki,dzire 2025,1700000,Cocody,https://images.coinafrique.com/thumb_5627178_uploaded_image1_1763448479.jpg,2025
+811,Hyundai Tucson 2018,Hyundai,Tucson 2018,10900000,Cocody,https://images.coinafrique.com/thumb_5641950_uploaded_image1_1764153988.jpg,2018
+812,Hyundai Kona 2021,Hyundai,Kona 2021,12900000,Abidjan,https://images.coinafrique.com/thumb_5621280_uploaded_image1_1763096608.jpg,2021
+813,Toyota Tacoma 2021,Toyota,Tacoma 2021,17000000,Cocody,https://images.coinafrique.com/thumb_5641962_uploaded_image1_1764154169.jpg,2021
+814,Suzuki Vitara 2022,Suzuki,Vitara 2022,10900000,Angré,https://images.coinafrique.com/thumb_5627458_uploaded_image1_1763460525.jpg,2022
+815,BMW X4 2018,BMW,X4 2018,13500000,Abidjan,https://images.coinafrique.com/thumb_5627813_uploaded_image1_1763468647.jpg,2018
+816,Mercedes-benz CLA-class 2021,Mercedes-benz,CLA-class 2021,27000000,Abidjan,https://images.coinafrique.com/thumb_5627807_uploaded_image1_1763468508.jpg,2021
+817,Mercedes C200 boite auto 2003,Mercedes,C200 boite auto 2003,2350000,Cocody,https://images.coinafrique.com/thumb_5635031_uploaded_image1_1763807337.jpg,2003
+818,Mercedes-benz Viano 2018,Mercedes-benz,Viano 2018,35000000,Cocody,https://images.coinafrique.com/thumb_5638130_uploaded_image1_1763980745.jpg,2018
+819,Mitsubishi L200 2020,Mitsubishi,L200 2020,11800000,Cocody,https://images.coinafrique.com/thumb_5602346_uploaded_image1_1762151016.jpg,2020
+820,Hyundai Tucson 2021,Hyundai,Tucson 2021,14900000,Cocody,https://images.coinafrique.com/thumb_5635018_uploaded_image1_1763806899.jpg,2021
+821,Suzuki vitara 2021,Suzuki,vitara 2021,10500000,Cocody,https://images.coinafrique.com/thumb_5619739_uploaded_image1_1763026805.jpg,2021
+822,Toyota Prado VX 2016,Toyota,Prado VX 2016,15900000,Abidjan,https://images.coinafrique.com/thumb_5631052_uploaded_image1_1763605570.jpg,2016
+823,Hyundai Tucson 2022,Hyundai,Tucson 2022,16500000,Abidjan,https://images.coinafrique.com/thumb_5631874_uploaded_image1_1763641330.jpg,2022
+824,Suzuki Vitara 2018,Suzuki,Vitara 2018,6950000,Cocody,https://images.coinafrique.com/thumb_5602587_uploaded_image1_1762158239.jpg,2018
+825,Toyota Rav4 2021,Toyota,Rav4 2021,13000000,Cocody,https://images.coinafrique.com/thumb_5640006_uploaded_image1_1764067196.jpg,2021
+826,Toyota Land Cruiser 2022,Toyota,Land Cruiser 2022,26000000,Angré,https://images.coinafrique.com/thumb_5627453_uploaded_image1_1763460260.jpg,2022
+827,Hyundai Elantra 2021,Hyundai,Elantra 2021,12800000,Cocody,https://images.coinafrique.com/thumb_5604492_uploaded_image1_1762246448.jpg,2021
+828,BMW X3 2019,BMW,X3 2019,23900000,Cocody,https://images.coinafrique.com/thumb_5638104_uploaded_image1_1763980476.jpg,2019
+829,Hyundai Palissade  2025,Hyundai,Palissade  2025,43000000,Abidjan,https://images.coinafrique.com/thumb_5621788_uploaded_image1_1763124949.jpg,2025
+830,Renault duster 2011,Renault,duster 2011,3800000,Abidjan,https://images.coinafrique.com/thumb_5629417_uploaded_image1_1763539900.jpg,2011
+831,Hyundai  Avente 2019,Hyundai,Avente 2019,7950000,Cocody,https://images.coinafrique.com/thumb_5635026_uploaded_image1_1763807155.jpg,2019
+832,KIA Picanto 2013,KIA,Picanto 2013,3200000,Abidjan,https://images.coinafrique.com/thumb_5629422_uploaded_image1_1763540071.jpg,2013
+833,Hyundai Santa Fe 2018,Hyundai,Santa Fe 2018,8500000,Abidjan,https://images.coinafrique.com/thumb_5631050_uploaded_image1_1763605455.jpg,2018
+834,Nissan Hardbody 2020,Nissan,Hardbody 2020,9000000,Abidjan,https://images.coinafrique.com/thumb_5627452_uploaded_image1_1763460213.jpg,2020
+835,BMW X4 2017,BMW,X4 2017,14500000,Abidjan,https://images.coinafrique.com/thumb_5621926_uploaded_image1_1763131657.jpg,2017
+836,Hyundai Tucson 2021,Hyundai,Tucson 2021,16500000,Abidjan,https://images.coinafrique.com/thumb_5621770_uploaded_image1_1763124619.jpg,2021
+837,Renault Duster 2017,Renault,Duster 2017,6500000,Cocody,https://images.coinafrique.com/thumb_5632924_uploaded_image1_1763703834.jpg,2017
+838,Suzuki Ciaz 2021,Suzuki,Ciaz 2021,6800000,Cocody,https://images.coinafrique.com/thumb_5606987_uploaded_image1_1762355912.jpg,2021
+839,Toyota Corolla 2014,Toyota,Corolla 2014,4800000,Cocody,https://images.coinafrique.com/thumb_5641916_uploaded_image1_1764153393.jpg,2014
+840,Toyota Fortuner EXR 2022,Toyota,Fortuner EXR 2022,29000000,Abidjan,https://images.coinafrique.com/thumb_5599366_uploaded_image1_1761947053.jpg,2022
+841,Nissan Patrol SE Platinium  2025,Nissan,Patrol SE Platinium  2025,120000000,Abidjan,https://images.coinafrique.com/thumb_5599369_uploaded_image1_1761947210.jpg,2025
+842,Hyundai Tucson Hatrac  2020,Hyundai,Tucson Hatrac  2020,15800000,Abidjan,https://images.coinafrique.com/thumb_5636357_uploaded_image1_1763889927.jpg,2020
+843,Hyundai tucson grand écran android 2006,Hyundai,tucson grand écran android 2006,5800000,Cocody,https://images.coinafrique.com/thumb_5635008_uploaded_image1_1763806668.jpg,2006
+844,Kia Telluride 2021,Kia,Telluride 2021,23500000,Abidjan,https://images.coinafrique.com/thumb_5632404_uploaded_image1_1763662647.jpg,2021
+845,BMW  3 2015,BMW,3 2015,8500000,Angré,https://images.coinafrique.com/thumb_5627448_uploaded_image1_1763460079.jpg,2015
+846,Toyota Fortuner EXR 2022,Toyota,Fortuner EXR 2022,29000000,Abidjan,https://images.coinafrique.com/thumb_5599364_uploaded_image1_1761946975.jpg,2022
+847,Honda Civic 2017,Honda,Civic 2017,8500000,Cocody,https://images.coinafrique.com/thumb_5604483_uploaded_image1_1762246218.jpg,2017
+848,Suzuki Vitara 2023,Suzuki,Vitara 2023,12500000,Abidjan,https://images.coinafrique.com/thumb_5599717_uploaded_image1_1761983282.jpg,2023
+849,Toyota Rav4 XLE 2015,Toyota,Rav4 XLE 2015,10800000,Abidjan,https://images.coinafrique.com/thumb_5612476_uploaded_image1_1762654741.jpg,2015
+850,Citroen Elysée 2019,Citroen,Elysée 2019,5500000,Abidjan,https://images.coinafrique.com/thumb_5631042_uploaded_image1_1763604938.jpg,2019
+851,Nissan qashqai 2016,Nissan,qashqai 2016,7300000,Abidjan,https://images.coinafrique.com/thumb_5629412_uploaded_image1_1763539638.jpg,2016
+852,Toyota Prado 2017,Toyota,Prado 2017,16800000,Abidjan,https://images.coinafrique.com/thumb_5631550_uploaded_image1_1763633356.jpg,2017
+853,Hyundai Tucson 2022,Hyundai,Tucson 2022,18800000,Abidjan,https://images.coinafrique.com/thumb_5599373_uploaded_image1_1761947342.jpg,2022
+854,BMW X6 2021,BMW,X6 2021,39000000,Abidjan,https://images.coinafrique.com/thumb_5599709_uploaded_image1_1761982945.jpg,2021
+855,Toyota Highlander 2021,Toyota,Highlander 2021,29500000,Abidjan,https://images.coinafrique.com/thumb_5599706_uploaded_image1_1761982841.jpg,2021
+856,Hyundai Kona 2021,Hyundai,Kona 2021,13800000,Abidjan,https://images.coinafrique.com/thumb_5599713_uploaded_image1_1761983084.jpg,2021
+857,Renault Duster 2017,Renault,Duster 2017,6500000,Cocody,https://images.coinafrique.com/thumb_5635003_uploaded_image1_1763806515.jpg,2017
+858,Ford ecosport 2020,Ford,ecosport 2020,9300000,Cocody,https://images.coinafrique.com/thumb_5617661_uploaded_image1_1762932151.jpg,2020
+859,Nissan X-trail 2012,Nissan,X-trail 2012,2500000,Cocody,https://images.coinafrique.com/thumb_5617911_uploaded_image1_1762942931.jpg,2012
+860,Suzuki dzire 2022,Suzuki,dzire 2022,5400000,Cocody,https://images.coinafrique.com/thumb_5627171_uploaded_image1_1763447785.jpg,2022
+861,Hyundai Kona 2022,Hyundai,Kona 2022,15000000,Cocody,https://images.coinafrique.com/thumb_5623008_uploaded_image1_1763199532.jpg,2022
+862,Kia Sorento 2002,Kia,Sorento 2002,4000000,Marcory,https://images.coinafrique.com/thumb_5648165_uploaded_image1_1764499782.jpg,2002
+863,Hyundai Tucson 2020,Hyundai,Tucson 2020,14800000,Angré,https://images.coinafrique.com/thumb_5629536_uploaded_image1_1763545895.jpg,2020
+864,Toyota rav4 2014,Toyota,rav4 2014,11000000,Abidjan,https://images.coinafrique.com/thumb_5609989_uploaded_image1_1762505914.jpg,2014
+865,Toyota 4 Runner 2017,Toyota,4 Runner 2017,15900000,Cocody,https://images.coinafrique.com/thumb_5604467_uploaded_image1_1762245501.jpg,2017
+866,Peugeot 3008 2022,Peugeot,3008 2022,14500000,Cocody,https://images.coinafrique.com/thumb_5641901_uploaded_image1_1764152960.jpg,2022
+867,Toyota hilux 2012,Toyota,hilux 2012,10800000,Angré,https://images.coinafrique.com/thumb_5609982_uploaded_image1_1762505714.jpg,2012
+868,Ford f-150 2021,Ford,f-150 2021,23800000,Cocody,https://images.coinafrique.com/thumb_5606189_uploaded_image1_1762332532.jpg,2021
+869,Suzuki Vitara 2018,Suzuki,Vitara 2018,6850000,Cocody,https://images.coinafrique.com/thumb_5641897_uploaded_image1_1764152896.jpg,2018
+870,Toyota Land  cruiser Prado txl 2019,Toyota,Land  cruiser Prado txl 2019,22000000,Cocody,https://images.coinafrique.com/thumb_5634997_uploaded_image1_1763806234.jpg,2019
+871,Hyundai Elantra 2018,Hyundai,Elantra 2018,8300000,Cocody,https://images.coinafrique.com/thumb_5604463_uploaded_image1_1762245381.jpg,2018
+872,Nissan Kicks 2020,Nissan,Kicks 2020,7350000,Cocody,https://images.coinafrique.com/thumb_5632915_uploaded_image1_1763702967.jpg,2020
+873,Peugeot 3008 2022,Peugeot,3008 2022,14500000,Cocody,https://images.coinafrique.com/thumb_5641886_uploaded_image1_1764152560.jpg,2022
+874,Hyundai  Elantra 2018,Hyundai,Elantra 2018,6300000,Cocody,https://images.coinafrique.com/thumb_5633225_uploaded_image1_1763717280.jpg,2018
+875,Land Rover Range Rover Evoque 2021,Land,Rover Range Rover Evoque 2021,29500000,Cocody,https://images.coinafrique.com/thumb_5604458_uploaded_image1_1762245106.jpg,2021
+876,Mazda cx5 2016,Mazda,cx5 2016,8800000,Cocody,https://images.coinafrique.com/thumb_5627157_uploaded_image1_1763447122.jpg,2016
+877,Honda Accord 2004,Honda,Accord 2004,1950000,Cocody,https://images.coinafrique.com/thumb_5641880_uploaded_image1_1764152499.jpg,2004
+878,Jeep wrangler 2025,Jeep,wrangler 2025,45000000,Abidjan,https://images.coinafrique.com/thumb_5604461_uploaded_image1_1762245283.jpg,2025
+879,BMW X6 2009,BMW,X6 2009,4500000,Cocody,https://images.coinafrique.com/thumb_5646873_uploaded_image1_1764412759.jpg,2009
+880,Toyota Hilux 2022,Toyota,Hilux 2022,18800000,Cocody,https://images.coinafrique.com/thumb_5624311_uploaded_image1_1763285498.jpg,2022
+881,Hyundai  Creta  2021,Hyundai,Creta  2021,10800000,Cocody,https://images.coinafrique.com/thumb_5634985_uploaded_image1_1763805467.jpg,2021
+882,Kia forte 2018,Kia,forte 2018,5950000,Cocody,https://images.coinafrique.com/thumb_5608084_uploaded_image1_1762416639.jpg,2018
+883,Suzuki Dzire 2021,Suzuki,Dzire 2021,4900000,Cocody,https://images.coinafrique.com/thumb_5641865_uploaded_image1_1764152181.jpg,2021
+884,Changan CS75 plus  2025,Changan,CS75 plus  2025,26000000,Abidjan,https://images.coinafrique.com/thumb_5641874_uploaded_image1_1764152400.jpg,2025
+885,Mazda CX-09 2025,Mazda,CX-09 2025,36000000,Cocody,https://images.coinafrique.com/thumb_5606168_uploaded_image1_1762331683.jpg,2025
+886,Mercedes-benz C 2019,Mercedes-benz,C 2019,20500000,Cocody,https://images.coinafrique.com/thumb_5606164_uploaded_image1_1762331526.jpg,2019
+887,Kia sorento 2016,Kia,sorento 2016,10600000,Cocody,https://images.coinafrique.com/thumb_5627258_uploaded_image1_1763454189.jpg,2016
+888,Toyota starlet 2025,Toyota,starlet 2025,13500000,Cocody,https://images.coinafrique.com/thumb_5617720_uploaded_image1_1762934867.jpg,2025
+889,Hyundai Avante  2019,Hyundai,Avante  2019,10300000,Angré,https://images.coinafrique.com/thumb_5629522_uploaded_image1_1763545374.jpg,2019
+890,Kia Sportage 2013,Kia,Sportage 2013,9300000,Angré,https://images.coinafrique.com/thumb_5629519_uploaded_image1_1763545200.jpg,2013
+891,Kia Stonic  2020,Kia,Stonic  2020,7000000,Cocody,https://images.coinafrique.com/thumb_5608236_uploaded_image1_1762422961.jpg,2020
+892,Ford Territory 2025,Ford,Territory 2025,22500000,Cocody,https://images.coinafrique.com/thumb_5604453_uploaded_image1_1762244852.jpg,2025
+893,Ford  Focus 2000,Ford,Focus 2000,2800000,Cocody,https://images.coinafrique.com/thumb_5602392_uploaded_image1_1762152970.jpg,2000
+894,Kia soul 2013,Kia,soul 2013,5500000,Cocody,https://images.coinafrique.com/thumb_5617645_uploaded_image1_1762931129.jpg,2013
+895,Peugeot 406 2000,Peugeot,406 2000,1200000,Cocody,https://images.coinafrique.com/thumb_5632992_uploaded_image1_1763709459.jpg,2000
+896,Mercedes benz C200 2000,Mercedes,benz C200 2000,3000000,Cocody,https://images.coinafrique.com/thumb_5606964_uploaded_image1_1762354756.jpg,2000
+897,Toyota Camry 2015,Toyota,Camry 2015,5800000,Cocody,https://images.coinafrique.com/thumb_5602628_uploaded_image1_1762159571.jpg,2015
+898,Nissan kicks 2018,Nissan,kicks 2018,5900000,Cocody,https://images.coinafrique.com/thumb_5627152_uploaded_image1_1763446262.jpg,2018
+899,Hyundai Accent 2016,Hyundai,Accent 2016,3300000,Cocody,https://images.coinafrique.com/thumb_5633082_uploaded_image1_1763712930.jpg,2016
+900,Changan  CS75 2025,Changan,CS75 2025,30000000,Abidjan,https://images.coinafrique.com/thumb_5641840_uploaded_image1_1764151585.jpg,2025
+901,Mitsubishi Colt 2000,Mitsubishi,Colt 2000,2000000,Cocody,https://images.coinafrique.com/thumb_5632944_uploaded_image1_1763705223.jpg,2000
+902,Kia Sportage 2007,Kia,Sportage 2007,5500000,Cocody,https://images.coinafrique.com/thumb_5633181_uploaded_image1_1763716146.jpg,2007
+903,Audi  SQ2  2024,Audi,SQ2  2024,29800000,Abidjan,https://images.coinafrique.com/thumb_5637978_uploaded_image1_1763978084.jpg,2024
+904,Hyundai creta 2016,Hyundai,creta 2016,9800000,Cocody,https://images.coinafrique.com/thumb_5627145_uploaded_image1_1763445632.jpg,2016
+905,Suzuki vitara 2021,Suzuki,vitara 2021,9500000,Cocody,https://images.coinafrique.com/thumb_5617635_uploaded_image1_1762930424.jpg,2021
+906,Renault Duster 2023,Renault,Duster 2023,12500000,Abidjan,https://images.coinafrique.com/thumb_5621485_uploaded_image1_1763110909.jpg,2023
+907,Toyota rav4 2019,Toyota,rav4 2019,15850000,Cocody,https://images.coinafrique.com/thumb_5604442_uploaded_image1_1762244425.jpg,2019
+908,Toyota Starlet 2024,Toyota,Starlet 2024,7900000,Cocody,https://images.coinafrique.com/thumb_5604434_uploaded_image1_1762244291.jpg,2024
+909,Suzuki Alto 2024,Suzuki,Alto 2024,2800000,Cocody,https://images.coinafrique.com/thumb_5606937_uploaded_image1_1762354114.jpg,2024
+910,Hyundai Creta 2016,Hyundai,Creta 2016,6900000,Cocody,https://images.coinafrique.com/thumb_5602608_uploaded_image1_1762158831.jpg,2016
+911,Mitsubishi Attrage  2016,Mitsubishi,Attrage  2016,2900000,Cocody,https://images.coinafrique.com/thumb_5636382_uploaded_image1_1763890909.jpg,2016
+912,Toyota Land Cruiser 2008,Toyota,Land Cruiser 2008,5500000,Cocody,https://images.coinafrique.com/thumb_5636385_uploaded_image1_1763891114.jpg,2008
+913,Hyundai Sonata 2020,Hyundai,Sonata 2020,8800000,Abidjan,https://images.coinafrique.com/thumb_5621479_uploaded_image1_1763110715.jpg,2020
+914,Jaguar F-pace 2023,Jaguar,F-pace 2023,55000000,Angré,https://images.coinafrique.com/thumb_5633234_uploaded_image1_1763717500.jpg,2023
+915,GMC Yukon 2023,GMC,Yukon 2023,65000000,Cocody,https://images.coinafrique.com/thumb_5636379_uploaded_image1_1763890884.jpg,2023
+916,Haval H6 classic 2025,Haval,H6 classic 2025,22000000,Abidjan,https://images.coinafrique.com/thumb_5641784_uploaded_image1_1764150726.jpg,2025
+917,Honda Cr-V 2018,Honda,Cr-V 2018,12500000,Cocody,https://images.coinafrique.com/thumb_5648088_uploaded_image1_1764497299.jpg,2018
+918,Toyota Land Cruiser 2021,Toyota,Land Cruiser 2021,35000000,Cocody,https://images.coinafrique.com/thumb_5624289_uploaded_image1_1763283881.jpg,2021
+919,GMC Sierra 2022,GMC,Sierra 2022,36000000,Cocody,https://images.coinafrique.com/thumb_5636370_uploaded_image1_1763890472.jpg,2022
+920,Hyundai sonata 2025,Hyundai,sonata 2025,25000000,Cocody,https://images.coinafrique.com/thumb_5604396_uploaded_image1_1762243393.jpg,2025
+921,Hyundai tucson 2023,Hyundai,tucson 2023,25000000,Cocody,https://images.coinafrique.com/thumb_5604398_uploaded_image1_1762243517.jpg,2023
+922,Hyundai Tucson 2023,Hyundai,Tucson 2023,18800000,Cocody,https://images.coinafrique.com/thumb_5645288_uploaded_image1_1764323553.jpg,2023
+923,Kia Sportage 2017,Kia,Sportage 2017,12800000,Angré,https://images.coinafrique.com/thumb_5633202_uploaded_image1_1763716671.jpg,2017
+924,Changan CS55 plus  2025,Changan,CS55 plus  2025,22000000,Abidjan,https://images.coinafrique.com/thumb_5641758_uploaded_image1_1764150197.jpg,2025
+925,Mitsubishi Outlander 2024,Mitsubishi,Outlander 2024,22800000,Cocody,https://images.coinafrique.com/thumb_5634922_uploaded_image1_1763803362.jpg,2024
+926,HONDA Civic 2017,HONDA,Civic 2017,8500000,Abidjan,https://images.coinafrique.com/thumb_5604379_uploaded_image1_1762242819.jpg,2017
+927,Hyundai  Tucson 2016,Hyundai,Tucson 2016,8800000,Cocody,https://images.coinafrique.com/thumb_5639898_uploaded_image1_1764063507.jpg,2016
+928,Renault kadjar 2018,Renault,kadjar 2018,8500000,Cocody,https://images.coinafrique.com/thumb_5615699_uploaded_image1_1762850046.jpg,2018
+929,Toyota CHR 5 2017,Toyota,CHR 5 2017,11900000,Cocody,https://images.coinafrique.com/thumb_5645295_uploaded_image1_1764323681.jpg,2017
+930,Nissan Patrol SE Platinum 2025,Nissan,Patrol SE Platinum 2025,114800000,Abidjan,https://images.coinafrique.com/thumb_5637922_uploaded_image1_1763976841.jpg,2025
+931,Nissan Sentra 2020,Nissan,Sentra 2020,11500000,Cocody,https://images.coinafrique.com/thumb_5645283_uploaded_image1_1764323398.jpg,2020
+932,Suzuki Fronx  2025,Suzuki,Fronx  2025,13800000,Cocody,https://images.coinafrique.com/thumb_5648080_uploaded_image1_1764496698.jpg,2025
+933,Honda CR-V 2017,Honda,CR-V 2017,10000000,Cocody,https://images.coinafrique.com/thumb_5634910_uploaded_image1_1763802860.jpg,2017
+934,Mitsubishi Outlander 2019,Mitsubishi,Outlander 2019,11500000,Cocody,https://images.coinafrique.com/thumb_5634914_uploaded_image1_1763803001.jpg,2019
+935,Hyundai Santa fe 2021,Hyundai,Santa fe 2021,15900000,Angré,https://images.coinafrique.com/thumb_5629467_uploaded_image1_1763542952.jpg,2021
+936,Infiniti qx60 2024,Infiniti,qx60 2024,55000000,Cocody,https://images.coinafrique.com/thumb_5613895_uploaded_image1_1762762496.jpg,2024
+937,BMW X3 2023,BMW,X3 2023,26800000,Abidjan,https://images.coinafrique.com/thumb_5619649_uploaded_image1_1763022496.jpg,2023
+938,Hyundai Tucson 2021,Hyundai,Tucson 2021,16500000,Cocody,https://images.coinafrique.com/thumb_5634911_uploaded_image1_1763802868.jpg,2021
+939,Toyota  Hilux 2022,Toyota,Hilux 2022,18500000,Cocody,https://images.coinafrique.com/thumb_5643677_uploaded_image1_1764236355.jpg,2022
+940,Nissan Patrol 2020,Nissan,Patrol 2020,31900000,Cocody,https://images.coinafrique.com/thumb_5637897_uploaded_image1_1763976153.jpg,2020
+941,Kia Sportage 2018,Kia,Sportage 2018,11900000,Cocody,https://images.coinafrique.com/thumb_5634918_uploaded_image1_1763803265.jpg,2018
+942,Hyundai Elantra GT 2020,Hyundai,Elantra GT 2020,10800000,Cocody,https://images.coinafrique.com/thumb_5634915_uploaded_image1_1763803146.jpg,2020
+943,Nissan Patrol 2016,Nissan,Patrol 2016,16900000,Cocody,https://images.coinafrique.com/thumb_5637901_uploaded_image1_1763976290.jpg,2016
+944,Abarth  OT 2025,Abarth,OT 2025,16800000,Cocody,https://images.coinafrique.com/thumb_5631336_uploaded_image1_1763629288.jpg,2025
+945,Hyundai Santa Fe 2022,Hyundai,Santa Fe 2022,23000000,Cocody,https://images.coinafrique.com/thumb_5634908_uploaded_image1_1763802719.jpg,2022
+946,Audi Q5 2011,Audi,Q5 2011,10500000,Cocody,https://images.coinafrique.com/thumb_5648059_uploaded_image1_1764496139.jpg,2011
+947,Toyota Tacoma 2021,Toyota,Tacoma 2021,17000000,Cocody,https://images.coinafrique.com/thumb_5641716_uploaded_image1_1764149394.jpg,2021
+948,Changan unik 2023,Changan,unik 2023,25500000,Angré,https://images.coinafrique.com/thumb_5633174_uploaded_image1_1763715770.jpg,2023
+949,Mercedes-Benz C30 2019,Mercedes-Benz,C30 2019,16000000,Cocody,https://images.coinafrique.com/thumb_5631331_uploaded_image1_1763629179.jpg,2019
+950,Hyundai Accent 2018,Hyundai,Accent 2018,6700000,Cocody,https://images.coinafrique.com/thumb_5631326_uploaded_image1_1763629048.jpg,2018
+951,Ford Ecosport 2020,Ford,Ecosport 2020,9300000,Angré,https://images.coinafrique.com/thumb_5633167_uploaded_image1_1763715449.jpg,2020
+952,BMW X3 2023,BMW,X3 2023,26900000,Abidjan,https://images.coinafrique.com/thumb_5619633_uploaded_image1_1763022039.jpg,2023
+953,Mercedes-benz a180 2024,Mercedes-benz,a180 2024,26500000,Abidjan,https://images.coinafrique.com/thumb_5619646_uploaded_image1_1763022382.jpg,2024
+954,Hyundai Tucson 2019,Hyundai,Tucson 2019,20800000,Cocody,https://images.coinafrique.com/thumb_5631312_uploaded_image1_1763628536.jpg,2019
+955,Hyundai Santa fe 2018,Hyundai,Santa fe 2018,10900000,Cocody,https://images.coinafrique.com/thumb_5641688_uploaded_image1_1764148724.jpg,2018
+956,Hyundai Santa fe 2021,Hyundai,Santa fe 2021,15500000,Cocody,https://images.coinafrique.com/thumb_5634892_uploaded_image1_1763801619.jpg,2021
+957,Mazda  CX-5 2021,Mazda,CX-5 2021,14800000,Cocody,https://images.coinafrique.com/thumb_5646748_uploaded_image1_1764408512.jpg,2021
+958,Haval Jolion  2022,Haval,Jolion  2022,9900000,Angré,https://images.coinafrique.com/thumb_5636297_uploaded_image1_1763888374.jpg,2022
+959,Mercedes-Benz GL 2025,Mercedes-Benz,GL 2025,120000000,Cocody,https://images.coinafrique.com/thumb_5631305_uploaded_image1_1763628283.jpg,2025
+960,Toyota Camry 2022,Toyota,Camry 2022,16000000,Cocody,https://images.coinafrique.com/thumb_5631301_uploaded_image1_1763628135.jpg,2022
+961,Mercedes-benz gl 2024,Mercedes-benz,gl 2024,68000000,Cocody,https://images.coinafrique.com/thumb_5608019_uploaded_image1_1762414491.jpg,2024
+962,Mercedes-benz c30 2017,Mercedes-benz,c30 2017,13000000,Cocody,https://images.coinafrique.com/thumb_5608023_uploaded_image1_1762414648.jpg,2017
+963,Toyota Camry 2022,Toyota,Camry 2022,18500000,Cocody,https://images.coinafrique.com/thumb_5621403_uploaded_image1_1763107689.jpg,2022
+964,BMW Serie 5 2019,BMW,Serie 5 2019,21000000,Cocody,https://images.coinafrique.com/thumb_5646746_uploaded_image1_1764408329.jpg,2019
+965,Mercedes-Benz  ML 2007,Mercedes-Benz,ML 2007,4250000,Cocody,https://images.coinafrique.com/thumb_5648002_uploaded_image1_1764494532.jpg,2007
