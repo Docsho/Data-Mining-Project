@@ -2,7 +2,7 @@
 
 # 📘 Web Scraping & Recommendation System — Jumia & CoinAfrique
 
-*A Data Mining Project by Nouhr Emmanuel Traoré*
+*A Data Mining Project by Nouhr Emmanuel Traoré & Yamin Kagone*
 
 ## 🧩 Overview
 
